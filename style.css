@@ -1,0 +1,567 @@
+/* =======================================================
+   GLOBAL
+======================================================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background: #0b1120; /* deep navy */
+  color: #e2e8f0;      /* soft white-blue */
+}
+
+/* =======================================================
+   HERO
+======================================================= */
+.hero {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at top, #1e3a8a, #0b1120 60%);
+}
+
+.hero-inner {
+  text-align: center;
+  color: #f1f5f9;
+}
+
+.hero-icon span {
+  font-size: 80px;
+}
+
+.hero h1 {
+  margin-top: 10px;
+  font-size: 52px;
+  font-weight: 800;
+}
+
+.hero-pill {
+  margin-top: 12px;
+  display: inline-block;
+  padding: 8px 24px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.hero-sub {
+  margin-top: 10px;
+  opacity: 0.9;
+  font-size: 18px;
+}
+
+.hero-tags {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.hero-tags span {
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 14px;
+}
+
+/* =======================================================
+   LANDING PORTALS
+======================================================= */
+.landing {
+  padding: 40px 30px;
+}
+
+.portal-row {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.portal-card {
+  width: 360px;
+  padding: 28px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+  transition: 0.25s ease;
+  backdrop-filter: blur(10px);
+}
+
+.portal-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 50px rgba(255, 255, 255, 0.1);
+}
+
+.portal-icon {
+  font-size: 60px;
+  margin-bottom: 12px;
+  color: #93c5fd;
+}
+
+.portal-card h2 {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.portal-subtitle {
+  margin-top: 4px;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.portal-list {
+  margin-top: 14px;
+}
+
+.portal-list li {
+  list-style: none;
+  padding: 4px 0;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* =======================================================
+   BUTTONS
+======================================================= */
+.large {
+  width: 100%;
+  padding: 12px;
+  margin-top: 18px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: #1d4ed8;
+  color: white;
+  box-shadow: 0 0 15px rgba(29, 78, 216, 0.5);
+}
+
+.btn-primary:hover {
+  background: #1e40af;
+}
+
+.btn-green {
+  background: #16a34a;
+  color: white;
+  box-shadow: 0 0 15px rgba(22, 163, 74, 0.5);
+}
+
+.btn-green:hover {
+  background: #15803d;
+}
+
+.btn-red {
+  background: #dc2626;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  border: none;
+}
+.btn-red.small {
+  padding: 8px 14px;
+  font-size: 14px;
+}
+
+/* =======================================================
+   MODALS
+======================================================= */
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 10, 25, 0.75);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+  backdrop-filter: blur(3px);
+}
+
+.modal-card {
+  width: 360px;
+  padding: 24px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(12px);
+  position: relative;
+}
+
+.modal-card h3 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 8px;
+  color: #fff;
+}
+
+.modal-card label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  font-size: 13px;
+}
+
+.modal-card input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #334155;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  border: none;
+  background: transparent;
+  color: #cbd5e1;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.error {
+  margin-top: 8px;
+  text-align: center;
+  font-size: 13px;
+  color: #ff7070;
+}
+
+.full {
+  width: 100%;
+  margin-top: 14px;
+}
+
+.demo-hint {
+  margin-top: 10px;
+  font-size: 12px;
+  text-align: center;
+  color: #cbd5e1;
+}
+
+/* =======================================================
+   DASHBOARD COMMON
+======================================================= */
+.dashboard {
+  display: none;
+  padding: 24px;
+}
+
+/* TOP BAR */
+.dash-top {
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 14px;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  margin-bottom: 18px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+}
+
+.dash-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dash-logo-circle {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  background: #1d4ed8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.dash-logo-circle.green {
+  background: #16a34a;
+}
+
+.dash-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
+
+.dash-subtitle {
+  font-size: 12px;
+  color: #cbd5e1;
+}
+
+/* TOP STATS */
+.dash-top-stats {
+  display: flex;
+  gap: 14px;
+}
+
+.top-stat {
+  padding: 6px 12px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  text-align: right;
+}
+
+.top-stat span {
+  display: block;
+  font-size: 11px;
+  color: #94a3b8;
+}
+
+.top-stat strong {
+  font-size: 18px;
+  color: white;
+}
+
+/* =======================================================
+   GRID LAYOUT
+======================================================= */
+.layout-grid {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 18px;
+}
+
+@media (max-width: 900px) {
+  .layout-grid,
+  .citizen-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =======================================================
+   SIDEBAR
+======================================================= */
+.sidebar {
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 16px;
+  backdrop-filter: blur(8px);
+}
+
+.sidebar-title {
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #94a3b8;
+  margin-bottom: 8px;
+}
+
+.sidebar-link {
+  width: 100%;
+  text-align: left;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: transparent;
+  color: #e2e8f0;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.sidebar-link.active,
+.sidebar-link:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.sidebar-quick {
+  width: 100%;
+  margin-top: 6px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px dashed rgba(255, 255, 255, 0.4);
+  background: transparent;
+  color: #60a5fa;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+/* =======================================================
+   MAIN CONTENT PANELS
+======================================================= */
+.panel {
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+}
+
+.panel-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* TABLE STYLE */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.data-table th {
+  background: rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.data-table td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.action-btn {
+  border: none;
+  background: transparent;
+  color: #60a5fa;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.action-btn.delete {
+  color: #fb7171;
+}
+
+/* =======================================================
+   FORMS
+======================================================= */
+.form-container {
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 16px;
+  backdrop-filter: blur(10px);
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+}
+
+.form-field label {
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+.form-field input,
+.form-field select,
+.form-field textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #334155;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.btn-secondary {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+  color: #e2e8f0;
+}
+
+/* =======================================================
+   CITIZEN PROFILE
+======================================================= */
+.profile-card {
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 14px;
+  padding: 16px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+.profile-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 999px;
+  background: #1d4ed8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+}
+
+.badge-green {
+  background: #16a34a;
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 11px;
+}
+
+.profile-details p {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  padding: 4px 0;
+}
+
+.profile-email {
+  font-size: 13px;
+  color: #9ca3af;
+  word-break: break-all;
+  white-space: normal;
+}
+
+
+/* =======================================================
+   LISTS
+======================================================= */
+.list-simple li {
+  padding: 10px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  margin-bottom: 6px;
+}
+
+/* =======================================================
+   POLICY DETAILS MODAL
+======================================================= */
+#policyDetailModal .modal-card {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.3);
+  backdrop-filter: blur(12px);
+  padding: 24px;
+  border-radius: 16px;
+  animation: modalPop 0.3s ease;
+}
+
+@keyframes modalPop {
+  from { transform: scale(0.8); opacity: 0; }
+  to   { transform: scale(1); opacity: 1; }
+}
+
+#policyDetailModal h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #fff;
+}

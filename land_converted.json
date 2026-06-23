@@ -1,0 +1,9002 @@
+[
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8dc"
+    },
+    "size": "41.31 Bigah",
+    "ownerName": "Suresh Gupta",
+    "ownerEmail": "suresh.gupta1766@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8dd"
+    },
+    "size": "44.85 Bigah",
+    "ownerName": "Manish Gupta",
+    "ownerEmail": "manish.gupta446@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8de"
+    },
+    "size": "24.25 Bigah",
+    "ownerName": "Vivek Kumar",
+    "ownerEmail": "vivek.kumar2049@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8df"
+    },
+    "size": "15.13 Bigah",
+    "ownerName": "Arjun Jain",
+    "ownerEmail": "arjun.jain7119@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e0"
+    },
+    "size": "5.01 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar7724@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e1"
+    },
+    "size": "28.96 Bigah",
+    "ownerName": "Asha Gupta",
+    "ownerEmail": "asha.gupta8358@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e2"
+    },
+    "size": "41.61 Bigah",
+    "ownerName": "Sunita Verma",
+    "ownerEmail": "sunita.verma1574@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e3"
+    },
+    "size": "44.55 Bigah",
+    "ownerName": "Neha Singh",
+    "ownerEmail": "neha.singh1238@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e4"
+    },
+    "size": "5.6 Bigah",
+    "ownerName": "Anita Reddy",
+    "ownerEmail": "anita.reddy8322@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e5"
+    },
+    "size": "1.07 Bigah",
+    "ownerName": "Ritu Kumar",
+    "ownerEmail": "ritu.kumar2524@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e6"
+    },
+    "size": "25.37 Bigah",
+    "ownerName": "Kamal Bose",
+    "ownerEmail": "kamal.bose3280@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e7"
+    },
+    "size": "22.34 Bigah",
+    "ownerName": "Vivek Reddy",
+    "ownerEmail": "vivek.reddy8777@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e8"
+    },
+    "size": "46.44 Bigah",
+    "ownerName": "Vivek Gupta",
+    "ownerEmail": "vivek.gupta1083@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8e9"
+    },
+    "size": "8.6 Bigah",
+    "ownerName": "Vivek Patel",
+    "ownerEmail": "vivek.patel1391@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ea"
+    },
+    "size": "23.11 Bigah",
+    "ownerName": "Asha Reddy",
+    "ownerEmail": "asha.reddy3146@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8eb"
+    },
+    "size": "29.06 Bigah",
+    "ownerName": "Ritu Thakur",
+    "ownerEmail": "ritu.thakur6201@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ec"
+    },
+    "size": "42.35 Bigah",
+    "ownerName": "Lakshmi Kumar",
+    "ownerEmail": "lakshmi.kumar5804@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ed"
+    },
+    "size": "38.41 Bigah",
+    "ownerName": "Manish Sharma",
+    "ownerEmail": "manish.sharma1313@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ee"
+    },
+    "size": "28.5 Bigah",
+    "ownerName": "Amit Bhatt",
+    "ownerEmail": "amit.bhatt8998@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ef"
+    },
+    "size": "21.98 Bigah",
+    "ownerName": "Deepa Thakur",
+    "ownerEmail": "deepa.thakur1046@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f0"
+    },
+    "size": "30.08 Bigah",
+    "ownerName": "Karan Mehta",
+    "ownerEmail": "karan.mehta9228@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f1"
+    },
+    "size": "8.31 Bigah",
+    "ownerName": "Vivek Sharma",
+    "ownerEmail": "vivek.sharma9352@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f2"
+    },
+    "size": "11.7 Bigah",
+    "ownerName": "Karan Patel",
+    "ownerEmail": "karan.patel8538@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f3"
+    },
+    "size": "15.7 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel7343@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f4"
+    },
+    "size": "42.71 Bigah",
+    "ownerName": "Asha Das",
+    "ownerEmail": "asha.das8647@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f5"
+    },
+    "size": "8.42 Bigah",
+    "ownerName": "Karan Singh",
+    "ownerEmail": "karan.singh3343@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f6"
+    },
+    "size": "40.41 Bigah",
+    "ownerName": "Raj Singh",
+    "ownerEmail": "raj.singh9851@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f7"
+    },
+    "size": "22.95 Bigah",
+    "ownerName": "Pooja Bhatt",
+    "ownerEmail": "pooja.bhatt4851@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f8"
+    },
+    "size": "41.51 Bigah",
+    "ownerName": "Ritu Reddy",
+    "ownerEmail": "ritu.reddy7033@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8f9"
+    },
+    "size": "0.83 Bigah",
+    "ownerName": "Arjun Gupta",
+    "ownerEmail": "arjun.gupta4681@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8fa"
+    },
+    "size": "38.09 Bigah",
+    "ownerName": "Mohit Khan",
+    "ownerEmail": "mohit.khan639@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8fb"
+    },
+    "size": "16.4 Bigah",
+    "ownerName": "Rohit Mehta",
+    "ownerEmail": "rohit.mehta6130@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8fc"
+    },
+    "size": "15.53 Bigah",
+    "ownerName": "Suresh Malhotra",
+    "ownerEmail": "suresh.malhotra1551@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8fd"
+    },
+    "size": "33.12 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel7627@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8fe"
+    },
+    "size": "39.31 Bigah",
+    "ownerName": "Mohit Chopra",
+    "ownerEmail": "mohit.chopra3781@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a8ff"
+    },
+    "size": "13.56 Bigah",
+    "ownerName": "Arjun Nair",
+    "ownerEmail": "arjun.nair2623@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a900"
+    },
+    "size": "47.69 Bigah",
+    "ownerName": "Amit Gupta",
+    "ownerEmail": "amit.gupta9433@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a901"
+    },
+    "size": "10.11 Bigah",
+    "ownerName": "Mohit Malhotra",
+    "ownerEmail": "mohit.malhotra4115@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a902"
+    },
+    "size": "12.9 Bigah",
+    "ownerName": "Lakshmi Saxena",
+    "ownerEmail": "lakshmi.saxena5646@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a903"
+    },
+    "size": "6.54 Bigah",
+    "ownerName": "Vikas Gupta",
+    "ownerEmail": "vikas.gupta4587@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a904"
+    },
+    "size": "8.78 Bigah",
+    "ownerName": "Arjun Kumar",
+    "ownerEmail": "arjun.kumar7207@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a905"
+    },
+    "size": "30.53 Bigah",
+    "ownerName": "Suresh Khan",
+    "ownerEmail": "suresh.khan2356@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a906"
+    },
+    "size": "40.26 Bigah",
+    "ownerName": "Deepa Reddy",
+    "ownerEmail": "deepa.reddy9176@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a907"
+    },
+    "size": "39.66 Bigah",
+    "ownerName": "Neha Chopra",
+    "ownerEmail": "neha.chopra8431@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a908"
+    },
+    "size": "20.26 Bigah",
+    "ownerName": "Meena Singh",
+    "ownerEmail": "meena.singh2225@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a909"
+    },
+    "size": "24.12 Bigah",
+    "ownerName": "Deepa Bose",
+    "ownerEmail": "deepa.bose2855@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90a"
+    },
+    "size": "24.91 Bigah",
+    "ownerName": "Neha Singh",
+    "ownerEmail": "neha.singh3485@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90b"
+    },
+    "size": "2.84 Bigah",
+    "ownerName": "Anita Gupta",
+    "ownerEmail": "anita.gupta4248@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90c"
+    },
+    "size": "48.64 Bigah",
+    "ownerName": "Anita Saxena",
+    "ownerEmail": "anita.saxena4458@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90d"
+    },
+    "size": "35.58 Bigah",
+    "ownerName": "Rohit Khan",
+    "ownerEmail": "rohit.khan5210@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90e"
+    },
+    "size": "13.88 Bigah",
+    "ownerName": "Neha Singh",
+    "ownerEmail": "neha.singh5430@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a90f"
+    },
+    "size": "21.92 Bigah",
+    "ownerName": "Kamal Das",
+    "ownerEmail": "kamal.das5449@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a910"
+    },
+    "size": "10.28 Bigah",
+    "ownerName": "Sanjay Joshi",
+    "ownerEmail": "sanjay.joshi7968@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a911"
+    },
+    "size": "7.62 Bigah",
+    "ownerName": "Lakshmi Sharma",
+    "ownerEmail": "lakshmi.sharma4087@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a912"
+    },
+    "size": "46.62 Bigah",
+    "ownerName": "Asha Nair",
+    "ownerEmail": "asha.nair8698@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a913"
+    },
+    "size": "10.2 Bigah",
+    "ownerName": "Rahul Bose",
+    "ownerEmail": "rahul.bose590@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a914"
+    },
+    "size": "34.06 Bigah",
+    "ownerName": "Karan Verma",
+    "ownerEmail": "karan.verma5008@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a915"
+    },
+    "size": "9.88 Bigah",
+    "ownerName": "Kiran Joshi",
+    "ownerEmail": "kiran.joshi1224@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a916"
+    },
+    "size": "32.48 Bigah",
+    "ownerName": "Kamal Gupta",
+    "ownerEmail": "kamal.gupta6682@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a917"
+    },
+    "size": "22.27 Bigah",
+    "ownerName": "Karan Reddy",
+    "ownerEmail": "karan.reddy8492@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a918"
+    },
+    "size": "17.57 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar7544@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a919"
+    },
+    "size": "45.82 Bigah",
+    "ownerName": "Vikas Thakur",
+    "ownerEmail": "vikas.thakur1194@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91a"
+    },
+    "size": "19.38 Bigah",
+    "ownerName": "Neha Nair",
+    "ownerEmail": "neha.nair5678@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91b"
+    },
+    "size": "18.11 Bigah",
+    "ownerName": "Ritu Iyer",
+    "ownerEmail": "ritu.iyer8038@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91c"
+    },
+    "size": "5.97 Bigah",
+    "ownerName": "Raj Verma",
+    "ownerEmail": "raj.verma3259@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91d"
+    },
+    "size": "8.95 Bigah",
+    "ownerName": "Rohit Singh",
+    "ownerEmail": "rohit.singh1646@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91e"
+    },
+    "size": "41.11 Bigah",
+    "ownerName": "Sunita Saxena",
+    "ownerEmail": "sunita.saxena9727@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a91f"
+    },
+    "size": "28.01 Bigah",
+    "ownerName": "Neha Bose",
+    "ownerEmail": "neha.bose7023@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a920"
+    },
+    "size": "35.15 Bigah",
+    "ownerName": "Mohit Saxena",
+    "ownerEmail": "mohit.saxena2467@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a921"
+    },
+    "size": "2.95 Bigah",
+    "ownerName": "Ramesh Sharma",
+    "ownerEmail": "ramesh.sharma7656@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a922"
+    },
+    "size": "12.06 Bigah",
+    "ownerName": "Karan Chopra",
+    "ownerEmail": "karan.chopra8217@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a923"
+    },
+    "size": "36.88 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt5662@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a924"
+    },
+    "size": "19.63 Bigah",
+    "ownerName": "Arjun Jain",
+    "ownerEmail": "arjun.jain3830@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a925"
+    },
+    "size": "23.17 Bigah",
+    "ownerName": "Manish Mehta",
+    "ownerEmail": "manish.mehta1002@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a926"
+    },
+    "size": "24.03 Bigah",
+    "ownerName": "Neha Jain",
+    "ownerEmail": "neha.jain3670@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a927"
+    },
+    "size": "37.98 Bigah",
+    "ownerName": "Ritu Chopra",
+    "ownerEmail": "ritu.chopra4642@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a928"
+    },
+    "size": "23.35 Bigah",
+    "ownerName": "Mohit Das",
+    "ownerEmail": "mohit.das4598@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a929"
+    },
+    "size": "49.12 Bigah",
+    "ownerName": "Sanjay Singh",
+    "ownerEmail": "sanjay.singh4564@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92a"
+    },
+    "size": "20.55 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das4628@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92b"
+    },
+    "size": "23.56 Bigah",
+    "ownerName": "Anita Chopra",
+    "ownerEmail": "anita.chopra2860@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92c"
+    },
+    "size": "36.45 Bigah",
+    "ownerName": "Kamal Sharma",
+    "ownerEmail": "kamal.sharma2542@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92d"
+    },
+    "size": "20.42 Bigah",
+    "ownerName": "Sanjay Malhotra",
+    "ownerEmail": "sanjay.malhotra2995@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92e"
+    },
+    "size": "38.02 Bigah",
+    "ownerName": "Kamal Nair",
+    "ownerEmail": "kamal.nair6555@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a92f"
+    },
+    "size": "25.72 Bigah",
+    "ownerName": "Rahul Nair",
+    "ownerEmail": "rahul.nair3174@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a930"
+    },
+    "size": "43.33 Bigah",
+    "ownerName": "Lakshmi Khan",
+    "ownerEmail": "lakshmi.khan8121@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a931"
+    },
+    "size": "2.79 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain8205@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a932"
+    },
+    "size": "38.72 Bigah",
+    "ownerName": "Kamal Thakur",
+    "ownerEmail": "kamal.thakur9702@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a933"
+    },
+    "size": "6.68 Bigah",
+    "ownerName": "Ramesh Bhatt",
+    "ownerEmail": "ramesh.bhatt9381@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a934"
+    },
+    "size": "39.52 Bigah",
+    "ownerName": "Deepa Chopra",
+    "ownerEmail": "deepa.chopra3815@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a935"
+    },
+    "size": "28.67 Bigah",
+    "ownerName": "Deepa Gupta",
+    "ownerEmail": "deepa.gupta9965@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a936"
+    },
+    "size": "29.06 Bigah",
+    "ownerName": "Amit Singh",
+    "ownerEmail": "amit.singh9840@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a937"
+    },
+    "size": "47.08 Bigah",
+    "ownerName": "Rohit Sharma",
+    "ownerEmail": "rohit.sharma177@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a938"
+    },
+    "size": "10.24 Bigah",
+    "ownerName": "Suresh Mehta",
+    "ownerEmail": "suresh.mehta1933@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a939"
+    },
+    "size": "27.32 Bigah",
+    "ownerName": "Mohit Khan",
+    "ownerEmail": "mohit.khan9610@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93a"
+    },
+    "size": "49.96 Bigah",
+    "ownerName": "Sanjay Mehta",
+    "ownerEmail": "sanjay.mehta9338@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93b"
+    },
+    "size": "41.55 Bigah",
+    "ownerName": "Neha Das",
+    "ownerEmail": "neha.das781@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93c"
+    },
+    "size": "36.44 Bigah",
+    "ownerName": "Asha Gupta",
+    "ownerEmail": "asha.gupta1003@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93d"
+    },
+    "size": "11.16 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur7634@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93e"
+    },
+    "size": "6.42 Bigah",
+    "ownerName": "Pooja Mehta",
+    "ownerEmail": "pooja.mehta4585@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a93f"
+    },
+    "size": "46.37 Bigah",
+    "ownerName": "Ramesh Mehta",
+    "ownerEmail": "ramesh.mehta5753@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a940"
+    },
+    "size": "33.28 Bigah",
+    "ownerName": "Ritu Saxena",
+    "ownerEmail": "ritu.saxena8448@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a941"
+    },
+    "size": "41.25 Bigah",
+    "ownerName": "Karan Joshi",
+    "ownerEmail": "karan.joshi869@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a942"
+    },
+    "size": "21.24 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar5205@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a943"
+    },
+    "size": "42.46 Bigah",
+    "ownerName": "Rohit Gupta",
+    "ownerEmail": "rohit.gupta700@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a944"
+    },
+    "size": "15.33 Bigah",
+    "ownerName": "Mohit Jain",
+    "ownerEmail": "mohit.jain9109@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a945"
+    },
+    "size": "27.57 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain5368@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a946"
+    },
+    "size": "45.64 Bigah",
+    "ownerName": "Arjun Bhatt",
+    "ownerEmail": "arjun.bhatt5813@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a947"
+    },
+    "size": "8.3 Bigah",
+    "ownerName": "Suresh Khan",
+    "ownerEmail": "suresh.khan2706@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a948"
+    },
+    "size": "44.17 Bigah",
+    "ownerName": "Meena Jain",
+    "ownerEmail": "meena.jain3523@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a949"
+    },
+    "size": "5.08 Bigah",
+    "ownerName": "Arjun Reddy",
+    "ownerEmail": "arjun.reddy6949@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94a"
+    },
+    "size": "33.63 Bigah",
+    "ownerName": "Ritu Jain",
+    "ownerEmail": "ritu.jain6743@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94b"
+    },
+    "size": "49.93 Bigah",
+    "ownerName": "Neha Khan",
+    "ownerEmail": "neha.khan4786@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94c"
+    },
+    "size": "16.15 Bigah",
+    "ownerName": "Lakshmi Iyer",
+    "ownerEmail": "lakshmi.iyer7983@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94d"
+    },
+    "size": "20.13 Bigah",
+    "ownerName": "Asha Das",
+    "ownerEmail": "asha.das5614@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94e"
+    },
+    "size": "2.97 Bigah",
+    "ownerName": "Amit Bhatt",
+    "ownerEmail": "amit.bhatt8469@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a94f"
+    },
+    "size": "16.89 Bigah",
+    "ownerName": "Sunita Das",
+    "ownerEmail": "sunita.das4156@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a950"
+    },
+    "size": "6.74 Bigah",
+    "ownerName": "Suresh Sharma",
+    "ownerEmail": "suresh.sharma8504@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a951"
+    },
+    "size": "6.95 Bigah",
+    "ownerName": "Mohit Verma",
+    "ownerEmail": "mohit.verma7066@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a952"
+    },
+    "size": "45.44 Bigah",
+    "ownerName": "Vivek Iyer",
+    "ownerEmail": "vivek.iyer1707@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a953"
+    },
+    "size": "20.19 Bigah",
+    "ownerName": "Mohit Iyer",
+    "ownerEmail": "mohit.iyer9503@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a954"
+    },
+    "size": "35.68 Bigah",
+    "ownerName": "Asha Singh",
+    "ownerEmail": "asha.singh5175@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a955"
+    },
+    "size": "49.16 Bigah",
+    "ownerName": "Lakshmi Patel",
+    "ownerEmail": "lakshmi.patel8631@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a956"
+    },
+    "size": "43.74 Bigah",
+    "ownerName": "Karan Khan",
+    "ownerEmail": "karan.khan4577@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a957"
+    },
+    "size": "30.54 Bigah",
+    "ownerName": "Rohit Thakur",
+    "ownerEmail": "rohit.thakur2831@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a958"
+    },
+    "size": "48.23 Bigah",
+    "ownerName": "Mohit Iyer",
+    "ownerEmail": "mohit.iyer8064@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a959"
+    },
+    "size": "20.42 Bigah",
+    "ownerName": "Rahul Singh",
+    "ownerEmail": "rahul.singh6381@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95a"
+    },
+    "size": "45.12 Bigah",
+    "ownerName": "Ramesh Jain",
+    "ownerEmail": "ramesh.jain2360@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95b"
+    },
+    "size": "32.32 Bigah",
+    "ownerName": "Sanjay Jain",
+    "ownerEmail": "sanjay.jain1740@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95c"
+    },
+    "size": "1.96 Bigah",
+    "ownerName": "Suresh Bhatt",
+    "ownerEmail": "suresh.bhatt6451@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95d"
+    },
+    "size": "37.8 Bigah",
+    "ownerName": "Sunita Sharma",
+    "ownerEmail": "sunita.sharma8306@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95e"
+    },
+    "size": "2.78 Bigah",
+    "ownerName": "Vivek Sharma",
+    "ownerEmail": "vivek.sharma6608@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a95f"
+    },
+    "size": "47.25 Bigah",
+    "ownerName": "Sunita Jain",
+    "ownerEmail": "sunita.jain8495@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a960"
+    },
+    "size": "33.14 Bigah",
+    "ownerName": "Arjun Bhatt",
+    "ownerEmail": "arjun.bhatt4178@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a961"
+    },
+    "size": "2.66 Bigah",
+    "ownerName": "Ritu Sharma",
+    "ownerEmail": "ritu.sharma6105@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a962"
+    },
+    "size": "43.21 Bigah",
+    "ownerName": "Mohit Gupta",
+    "ownerEmail": "mohit.gupta9603@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a963"
+    },
+    "size": "48.43 Bigah",
+    "ownerName": "Sunita Singh",
+    "ownerEmail": "sunita.singh5330@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a964"
+    },
+    "size": "2.24 Bigah",
+    "ownerName": "Rohit Bose",
+    "ownerEmail": "rohit.bose6928@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a965"
+    },
+    "size": "23.04 Bigah",
+    "ownerName": "Suresh Patel",
+    "ownerEmail": "suresh.patel5279@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a966"
+    },
+    "size": "14.37 Bigah",
+    "ownerName": "Kamal Thakur",
+    "ownerEmail": "kamal.thakur2241@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a967"
+    },
+    "size": "40.14 Bigah",
+    "ownerName": "Sunita Malhotra",
+    "ownerEmail": "sunita.malhotra2735@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a968"
+    },
+    "size": "21.25 Bigah",
+    "ownerName": "Sanjay Nair",
+    "ownerEmail": "sanjay.nair7461@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a969"
+    },
+    "size": "35.63 Bigah",
+    "ownerName": "Rohit Jain",
+    "ownerEmail": "rohit.jain8134@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96a"
+    },
+    "size": "37.21 Bigah",
+    "ownerName": "Rahul Iyer",
+    "ownerEmail": "rahul.iyer2337@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96b"
+    },
+    "size": "33.33 Bigah",
+    "ownerName": "Suresh Gupta",
+    "ownerEmail": "suresh.gupta9658@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96c"
+    },
+    "size": "48.64 Bigah",
+    "ownerName": "Lakshmi Verma",
+    "ownerEmail": "lakshmi.verma4468@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96d"
+    },
+    "size": "40 Bigah",
+    "ownerName": "Suresh Gupta",
+    "ownerEmail": "suresh.gupta2726@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96e"
+    },
+    "size": "20.36 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel361@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a96f"
+    },
+    "size": "29.5 Bigah",
+    "ownerName": "Raj Das",
+    "ownerEmail": "raj.das5774@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a970"
+    },
+    "size": "42.56 Bigah",
+    "ownerName": "Meena Khan",
+    "ownerEmail": "meena.khan3613@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a971"
+    },
+    "size": "24.43 Bigah",
+    "ownerName": "Amit Kumar",
+    "ownerEmail": "amit.kumar3880@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a972"
+    },
+    "size": "47.8 Bigah",
+    "ownerName": "Sunita Gupta",
+    "ownerEmail": "sunita.gupta709@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a973"
+    },
+    "size": "35.96 Bigah",
+    "ownerName": "Asha Malhotra",
+    "ownerEmail": "asha.malhotra848@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a974"
+    },
+    "size": "15.52 Bigah",
+    "ownerName": "Neha Joshi",
+    "ownerEmail": "neha.joshi7142@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a975"
+    },
+    "size": "6.73 Bigah",
+    "ownerName": "Ramesh Malhotra",
+    "ownerEmail": "ramesh.malhotra6634@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a976"
+    },
+    "size": "1.38 Bigah",
+    "ownerName": "Vivek Malhotra",
+    "ownerEmail": "vivek.malhotra903@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a977"
+    },
+    "size": "43.01 Bigah",
+    "ownerName": "Rahul Iyer",
+    "ownerEmail": "rahul.iyer2375@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a978"
+    },
+    "size": "15.77 Bigah",
+    "ownerName": "Rahul Verma",
+    "ownerEmail": "rahul.verma9573@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a979"
+    },
+    "size": "37.99 Bigah",
+    "ownerName": "Vivek Nair",
+    "ownerEmail": "vivek.nair8401@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97a"
+    },
+    "size": "40.7 Bigah",
+    "ownerName": "Rohit Singh",
+    "ownerEmail": "rohit.singh6738@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97b"
+    },
+    "size": "6.67 Bigah",
+    "ownerName": "Arjun Patel",
+    "ownerEmail": "arjun.patel9457@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97c"
+    },
+    "size": "35.18 Bigah",
+    "ownerName": "Amit Bose",
+    "ownerEmail": "amit.bose6850@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97d"
+    },
+    "size": "35.33 Bigah",
+    "ownerName": "Sunita Khan",
+    "ownerEmail": "sunita.khan3172@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97e"
+    },
+    "size": "31.46 Bigah",
+    "ownerName": "Asha Kumar",
+    "ownerEmail": "asha.kumar2467@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a97f"
+    },
+    "size": "11.84 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair9917@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a980"
+    },
+    "size": "10.13 Bigah",
+    "ownerName": "Anita Iyer",
+    "ownerEmail": "anita.iyer9656@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a981"
+    },
+    "size": "43.95 Bigah",
+    "ownerName": "Arjun Mehta",
+    "ownerEmail": "arjun.mehta796@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a982"
+    },
+    "size": "9.26 Bigah",
+    "ownerName": "Sunita Saxena",
+    "ownerEmail": "sunita.saxena3634@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a983"
+    },
+    "size": "12.12 Bigah",
+    "ownerName": "Priya Gupta",
+    "ownerEmail": "priya.gupta3572@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a984"
+    },
+    "size": "18.88 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel195@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a985"
+    },
+    "size": "12.52 Bigah",
+    "ownerName": "Vivek Singh",
+    "ownerEmail": "vivek.singh4277@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a986"
+    },
+    "size": "41.11 Bigah",
+    "ownerName": "Neha Singh",
+    "ownerEmail": "neha.singh6228@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a987"
+    },
+    "size": "3.63 Bigah",
+    "ownerName": "Vivek Bose",
+    "ownerEmail": "vivek.bose1638@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a988"
+    },
+    "size": "2.3 Bigah",
+    "ownerName": "Anita Iyer",
+    "ownerEmail": "anita.iyer4882@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a989"
+    },
+    "size": "22.94 Bigah",
+    "ownerName": "Raj Bose",
+    "ownerEmail": "raj.bose485@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98a"
+    },
+    "size": "43.68 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt9903@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98b"
+    },
+    "size": "2.01 Bigah",
+    "ownerName": "Meena Patel",
+    "ownerEmail": "meena.patel9719@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98c"
+    },
+    "size": "5.09 Bigah",
+    "ownerName": "Vivek Bhatt",
+    "ownerEmail": "vivek.bhatt5608@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98d"
+    },
+    "size": "42.67 Bigah",
+    "ownerName": "Arjun Bhatt",
+    "ownerEmail": "arjun.bhatt4981@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98e"
+    },
+    "size": "44.9 Bigah",
+    "ownerName": "Neha Das",
+    "ownerEmail": "neha.das5732@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a98f"
+    },
+    "size": "44.67 Bigah",
+    "ownerName": "Priya Bhatt",
+    "ownerEmail": "priya.bhatt2545@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a990"
+    },
+    "size": "26.6 Bigah",
+    "ownerName": "Priya Iyer",
+    "ownerEmail": "priya.iyer9676@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a991"
+    },
+    "size": "17.4 Bigah",
+    "ownerName": "Vivek Joshi",
+    "ownerEmail": "vivek.joshi2705@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a992"
+    },
+    "size": "22.27 Bigah",
+    "ownerName": "Arjun Bhatt",
+    "ownerEmail": "arjun.bhatt81@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a993"
+    },
+    "size": "11.73 Bigah",
+    "ownerName": "Vikas Khan",
+    "ownerEmail": "vikas.khan7903@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a994"
+    },
+    "size": "0.61 Bigah",
+    "ownerName": "Sanjay Reddy",
+    "ownerEmail": "sanjay.reddy6292@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a995"
+    },
+    "size": "49.59 Bigah",
+    "ownerName": "Suresh Reddy",
+    "ownerEmail": "suresh.reddy7031@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a996"
+    },
+    "size": "39.11 Bigah",
+    "ownerName": "Anita Khan",
+    "ownerEmail": "anita.khan5980@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a997"
+    },
+    "size": "38.31 Bigah",
+    "ownerName": "Kiran Reddy",
+    "ownerEmail": "kiran.reddy170@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a998"
+    },
+    "size": "9.04 Bigah",
+    "ownerName": "Lakshmi Joshi",
+    "ownerEmail": "lakshmi.joshi211@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a999"
+    },
+    "size": "15.07 Bigah",
+    "ownerName": "Priya Khan",
+    "ownerEmail": "priya.khan8868@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99a"
+    },
+    "size": "38 Bigah",
+    "ownerName": "Meena Bhatt",
+    "ownerEmail": "meena.bhatt1341@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99b"
+    },
+    "size": "1.87 Bigah",
+    "ownerName": "Neha Bose",
+    "ownerEmail": "neha.bose4853@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99c"
+    },
+    "size": "7.17 Bigah",
+    "ownerName": "Arjun Mehta",
+    "ownerEmail": "arjun.mehta8760@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99d"
+    },
+    "size": "23.95 Bigah",
+    "ownerName": "Vivek Verma",
+    "ownerEmail": "vivek.verma1256@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99e"
+    },
+    "size": "20.32 Bigah",
+    "ownerName": "Ramesh Malhotra",
+    "ownerEmail": "ramesh.malhotra354@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a99f"
+    },
+    "size": "13.66 Bigah",
+    "ownerName": "Meena Bhatt",
+    "ownerEmail": "meena.bhatt6303@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a0"
+    },
+    "size": "47.79 Bigah",
+    "ownerName": "Ramesh Kumar",
+    "ownerEmail": "ramesh.kumar5458@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a1"
+    },
+    "size": "39.32 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel7495@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a2"
+    },
+    "size": "46.65 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar5426@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a3"
+    },
+    "size": "37.59 Bigah",
+    "ownerName": "Asha Chopra",
+    "ownerEmail": "asha.chopra8129@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a4"
+    },
+    "size": "1.93 Bigah",
+    "ownerName": "Pooja Nair",
+    "ownerEmail": "pooja.nair2615@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a5"
+    },
+    "size": "47.05 Bigah",
+    "ownerName": "Manish Reddy",
+    "ownerEmail": "manish.reddy166@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a6"
+    },
+    "size": "26.16 Bigah",
+    "ownerName": "Vivek Gupta",
+    "ownerEmail": "vivek.gupta4516@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a7"
+    },
+    "size": "47.77 Bigah",
+    "ownerName": "Ramesh Bhatt",
+    "ownerEmail": "ramesh.bhatt2741@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a8"
+    },
+    "size": "34.81 Bigah",
+    "ownerName": "Vivek Bose",
+    "ownerEmail": "vivek.bose8689@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9a9"
+    },
+    "size": "36.89 Bigah",
+    "ownerName": "Amit Das",
+    "ownerEmail": "amit.das503@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9aa"
+    },
+    "size": "0.63 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar8684@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ab"
+    },
+    "size": "28.86 Bigah",
+    "ownerName": "Sunita Bhatt",
+    "ownerEmail": "sunita.bhatt3849@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ac"
+    },
+    "size": "18.9 Bigah",
+    "ownerName": "Vikas Bose",
+    "ownerEmail": "vikas.bose3206@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ad"
+    },
+    "size": "44.68 Bigah",
+    "ownerName": "Ramesh Chopra",
+    "ownerEmail": "ramesh.chopra4739@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ae"
+    },
+    "size": "1.57 Bigah",
+    "ownerName": "Pooja Saxena",
+    "ownerEmail": "pooja.saxena8178@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9af"
+    },
+    "size": "35.66 Bigah",
+    "ownerName": "Raj Sharma",
+    "ownerEmail": "raj.sharma4375@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b0"
+    },
+    "size": "44.87 Bigah",
+    "ownerName": "Deepa Sharma",
+    "ownerEmail": "deepa.sharma5568@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b1"
+    },
+    "size": "21.01 Bigah",
+    "ownerName": "Karan Saxena",
+    "ownerEmail": "karan.saxena7482@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b2"
+    },
+    "size": "39.21 Bigah",
+    "ownerName": "Rohit Saxena",
+    "ownerEmail": "rohit.saxena3223@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b3"
+    },
+    "size": "30.18 Bigah",
+    "ownerName": "Kiran Singh",
+    "ownerEmail": "kiran.singh234@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b4"
+    },
+    "size": "27.35 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy2880@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b5"
+    },
+    "size": "42.62 Bigah",
+    "ownerName": "Asha Verma",
+    "ownerEmail": "asha.verma5072@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b6"
+    },
+    "size": "36.75 Bigah",
+    "ownerName": "Vikas Bhatt",
+    "ownerEmail": "vikas.bhatt1466@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b7"
+    },
+    "size": "15.52 Bigah",
+    "ownerName": "Neha Singh",
+    "ownerEmail": "neha.singh7076@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b8"
+    },
+    "size": "21.2 Bigah",
+    "ownerName": "Karan Verma",
+    "ownerEmail": "karan.verma9558@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9b9"
+    },
+    "size": "33.3 Bigah",
+    "ownerName": "Pooja Thakur",
+    "ownerEmail": "pooja.thakur2950@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ba"
+    },
+    "size": "3.54 Bigah",
+    "ownerName": "Vikas Nair",
+    "ownerEmail": "vikas.nair2089@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9bb"
+    },
+    "size": "21.2 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur4645@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9bc"
+    },
+    "size": "49.71 Bigah",
+    "ownerName": "Meena Joshi",
+    "ownerEmail": "meena.joshi464@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9bd"
+    },
+    "size": "48.11 Bigah",
+    "ownerName": "Sanjay Thakur",
+    "ownerEmail": "sanjay.thakur8498@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9be"
+    },
+    "size": "10.6 Bigah",
+    "ownerName": "Ramesh Khan",
+    "ownerEmail": "ramesh.khan4584@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9bf"
+    },
+    "size": "14.94 Bigah",
+    "ownerName": "Manish Saxena",
+    "ownerEmail": "manish.saxena6125@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c0"
+    },
+    "size": "41.53 Bigah",
+    "ownerName": "Vikas Mehta",
+    "ownerEmail": "vikas.mehta2394@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c1"
+    },
+    "size": "46.87 Bigah",
+    "ownerName": "Neha Nair",
+    "ownerEmail": "neha.nair5347@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c2"
+    },
+    "size": "47.24 Bigah",
+    "ownerName": "Vivek Das",
+    "ownerEmail": "vivek.das1614@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c3"
+    },
+    "size": "42.06 Bigah",
+    "ownerName": "Asha Jain",
+    "ownerEmail": "asha.jain6323@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c4"
+    },
+    "size": "31.78 Bigah",
+    "ownerName": "Sunita Chopra",
+    "ownerEmail": "sunita.chopra1664@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c5"
+    },
+    "size": "40.37 Bigah",
+    "ownerName": "Rohit Mehta",
+    "ownerEmail": "rohit.mehta2060@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c6"
+    },
+    "size": "32.43 Bigah",
+    "ownerName": "Sunita Mehta",
+    "ownerEmail": "sunita.mehta5029@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c7"
+    },
+    "size": "8.38 Bigah",
+    "ownerName": "Kiran Patel",
+    "ownerEmail": "kiran.patel5031@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c8"
+    },
+    "size": "11.81 Bigah",
+    "ownerName": "Karan Verma",
+    "ownerEmail": "karan.verma2717@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9c9"
+    },
+    "size": "38.14 Bigah",
+    "ownerName": "Neha Jain",
+    "ownerEmail": "neha.jain1930@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ca"
+    },
+    "size": "22.56 Bigah",
+    "ownerName": "Priya Mehta",
+    "ownerEmail": "priya.mehta4943@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9cb"
+    },
+    "size": "27.24 Bigah",
+    "ownerName": "Vikas Khan",
+    "ownerEmail": "vikas.khan7518@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9cc"
+    },
+    "size": "8.76 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das6031@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9cd"
+    },
+    "size": "32.98 Bigah",
+    "ownerName": "Asha Reddy",
+    "ownerEmail": "asha.reddy2669@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ce"
+    },
+    "size": "47.94 Bigah",
+    "ownerName": "Vikas Chopra",
+    "ownerEmail": "vikas.chopra6269@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9cf"
+    },
+    "size": "41.32 Bigah",
+    "ownerName": "Kiran Singh",
+    "ownerEmail": "kiran.singh9280@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d0"
+    },
+    "size": "29.81 Bigah",
+    "ownerName": "Anita Singh",
+    "ownerEmail": "anita.singh4699@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d1"
+    },
+    "size": "39.67 Bigah",
+    "ownerName": "Rahul Gupta",
+    "ownerEmail": "rahul.gupta9818@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d2"
+    },
+    "size": "14.84 Bigah",
+    "ownerName": "Deepa Khan",
+    "ownerEmail": "deepa.khan5756@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d3"
+    },
+    "size": "24.19 Bigah",
+    "ownerName": "Anita Gupta",
+    "ownerEmail": "anita.gupta3224@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d4"
+    },
+    "size": "36.73 Bigah",
+    "ownerName": "Manish Nair",
+    "ownerEmail": "manish.nair165@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d5"
+    },
+    "size": "4.42 Bigah",
+    "ownerName": "Manish Kumar",
+    "ownerEmail": "manish.kumar4131@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d6"
+    },
+    "size": "29.45 Bigah",
+    "ownerName": "Amit Das",
+    "ownerEmail": "amit.das9584@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d7"
+    },
+    "size": "47.22 Bigah",
+    "ownerName": "Ramesh Patel",
+    "ownerEmail": "ramesh.patel5610@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d8"
+    },
+    "size": "37.09 Bigah",
+    "ownerName": "Amit Patel",
+    "ownerEmail": "amit.patel5898@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9d9"
+    },
+    "size": "36.15 Bigah",
+    "ownerName": "Anita Bhatt",
+    "ownerEmail": "anita.bhatt7469@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9da"
+    },
+    "size": "47.1 Bigah",
+    "ownerName": "Asha Das",
+    "ownerEmail": "asha.das6389@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9db"
+    },
+    "size": "2.11 Bigah",
+    "ownerName": "Deepa Jain",
+    "ownerEmail": "deepa.jain7238@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9dc"
+    },
+    "size": "20.22 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy8097@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9dd"
+    },
+    "size": "17.22 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel8410@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9de"
+    },
+    "size": "28.68 Bigah",
+    "ownerName": "Suresh Reddy",
+    "ownerEmail": "suresh.reddy6196@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9df"
+    },
+    "size": "41.84 Bigah",
+    "ownerName": "Rahul Mehta",
+    "ownerEmail": "rahul.mehta6055@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e0"
+    },
+    "size": "6.55 Bigah",
+    "ownerName": "Kamal Joshi",
+    "ownerEmail": "kamal.joshi1733@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e1"
+    },
+    "size": "45.85 Bigah",
+    "ownerName": "Karan Thakur",
+    "ownerEmail": "karan.thakur3249@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e2"
+    },
+    "size": "3.95 Bigah",
+    "ownerName": "Anita Bose",
+    "ownerEmail": "anita.bose8279@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e3"
+    },
+    "size": "5.53 Bigah",
+    "ownerName": "Amit Mehta",
+    "ownerEmail": "amit.mehta8175@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e4"
+    },
+    "size": "27.36 Bigah",
+    "ownerName": "Raj Sharma",
+    "ownerEmail": "raj.sharma5229@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e5"
+    },
+    "size": "21.93 Bigah",
+    "ownerName": "Ritu Kumar",
+    "ownerEmail": "ritu.kumar2405@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e6"
+    },
+    "size": "14.66 Bigah",
+    "ownerName": "Manish Reddy",
+    "ownerEmail": "manish.reddy6585@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e7"
+    },
+    "size": "45.65 Bigah",
+    "ownerName": "Asha Chopra",
+    "ownerEmail": "asha.chopra5902@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e8"
+    },
+    "size": "7.31 Bigah",
+    "ownerName": "Ritu Reddy",
+    "ownerEmail": "ritu.reddy9773@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9e9"
+    },
+    "size": "15.29 Bigah",
+    "ownerName": "Sanjay Verma",
+    "ownerEmail": "sanjay.verma4765@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ea"
+    },
+    "size": "36.54 Bigah",
+    "ownerName": "Deepa Kumar",
+    "ownerEmail": "deepa.kumar7395@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9eb"
+    },
+    "size": "43.66 Bigah",
+    "ownerName": "Pooja Bose",
+    "ownerEmail": "pooja.bose7177@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ec"
+    },
+    "size": "6.43 Bigah",
+    "ownerName": "Ritu Iyer",
+    "ownerEmail": "ritu.iyer8241@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ed"
+    },
+    "size": "12.97 Bigah",
+    "ownerName": "Suresh Bhatt",
+    "ownerEmail": "suresh.bhatt9753@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ee"
+    },
+    "size": "3.23 Bigah",
+    "ownerName": "Mohit Patel",
+    "ownerEmail": "mohit.patel3593@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ef"
+    },
+    "size": "48.56 Bigah",
+    "ownerName": "Raj Saxena",
+    "ownerEmail": "raj.saxena2158@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f0"
+    },
+    "size": "38.54 Bigah",
+    "ownerName": "Kamal Jain",
+    "ownerEmail": "kamal.jain3221@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f1"
+    },
+    "size": "42.91 Bigah",
+    "ownerName": "Manish Patel",
+    "ownerEmail": "manish.patel9998@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f2"
+    },
+    "size": "1.06 Bigah",
+    "ownerName": "Arjun Sharma",
+    "ownerEmail": "arjun.sharma6216@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f3"
+    },
+    "size": "36.3 Bigah",
+    "ownerName": "Raj Joshi",
+    "ownerEmail": "raj.joshi8699@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f4"
+    },
+    "size": "27.5 Bigah",
+    "ownerName": "Amit Jain",
+    "ownerEmail": "amit.jain112@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f5"
+    },
+    "size": "33.09 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain1769@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f6"
+    },
+    "size": "20.83 Bigah",
+    "ownerName": "Asha Saxena",
+    "ownerEmail": "asha.saxena3932@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f7"
+    },
+    "size": "1.11 Bigah",
+    "ownerName": "Anita Bose",
+    "ownerEmail": "anita.bose3473@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f8"
+    },
+    "size": "42.96 Bigah",
+    "ownerName": "Sanjay Bhatt",
+    "ownerEmail": "sanjay.bhatt4298@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9f9"
+    },
+    "size": "35.41 Bigah",
+    "ownerName": "Karan Jain",
+    "ownerEmail": "karan.jain4666@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9fa"
+    },
+    "size": "28.3 Bigah",
+    "ownerName": "Anita Khan",
+    "ownerEmail": "anita.khan3750@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9fb"
+    },
+    "size": "38.35 Bigah",
+    "ownerName": "Deepa Chopra",
+    "ownerEmail": "deepa.chopra3716@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9fc"
+    },
+    "size": "28.51 Bigah",
+    "ownerName": "Meena Jain",
+    "ownerEmail": "meena.jain1261@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9fd"
+    },
+    "size": "5.9 Bigah",
+    "ownerName": "Asha Khan",
+    "ownerEmail": "asha.khan1959@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9fe"
+    },
+    "size": "10.43 Bigah",
+    "ownerName": "Ramesh Das",
+    "ownerEmail": "ramesh.das7025@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463a9ff"
+    },
+    "size": "17.73 Bigah",
+    "ownerName": "Manish Bhatt",
+    "ownerEmail": "manish.bhatt1944@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa00"
+    },
+    "size": "46.53 Bigah",
+    "ownerName": "Rohit Chopra",
+    "ownerEmail": "rohit.chopra7372@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa01"
+    },
+    "size": "8.33 Bigah",
+    "ownerName": "Raj Sharma",
+    "ownerEmail": "raj.sharma7795@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa02"
+    },
+    "size": "2.67 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy3621@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa03"
+    },
+    "size": "36.67 Bigah",
+    "ownerName": "Ritu Malhotra",
+    "ownerEmail": "ritu.malhotra801@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa04"
+    },
+    "size": "6.24 Bigah",
+    "ownerName": "Anita Nair",
+    "ownerEmail": "anita.nair5763@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa05"
+    },
+    "size": "22.6 Bigah",
+    "ownerName": "Ramesh Jain",
+    "ownerEmail": "ramesh.jain5389@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa06"
+    },
+    "size": "4.61 Bigah",
+    "ownerName": "Arjun Singh",
+    "ownerEmail": "arjun.singh2978@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa07"
+    },
+    "size": "3.92 Bigah",
+    "ownerName": "Anita Iyer",
+    "ownerEmail": "anita.iyer5804@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa08"
+    },
+    "size": "35.41 Bigah",
+    "ownerName": "Arjun Kumar",
+    "ownerEmail": "arjun.kumar5711@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa09"
+    },
+    "size": "31.19 Bigah",
+    "ownerName": "Asha Gupta",
+    "ownerEmail": "asha.gupta7883@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0a"
+    },
+    "size": "5.26 Bigah",
+    "ownerName": "Ritu Reddy",
+    "ownerEmail": "ritu.reddy8133@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0b"
+    },
+    "size": "14.3 Bigah",
+    "ownerName": "Amit Khan",
+    "ownerEmail": "amit.khan8328@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0c"
+    },
+    "size": "8.54 Bigah",
+    "ownerName": "Priya Khan",
+    "ownerEmail": "priya.khan5317@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0d"
+    },
+    "size": "14.73 Bigah",
+    "ownerName": "Neha Malhotra",
+    "ownerEmail": "neha.malhotra4088@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0e"
+    },
+    "size": "14.8 Bigah",
+    "ownerName": "Priya Thakur",
+    "ownerEmail": "priya.thakur7654@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa0f"
+    },
+    "size": "7.8 Bigah",
+    "ownerName": "Karan Bhatt",
+    "ownerEmail": "karan.bhatt6701@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa10"
+    },
+    "size": "8.43 Bigah",
+    "ownerName": "Sanjay Thakur",
+    "ownerEmail": "sanjay.thakur2182@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa11"
+    },
+    "size": "18.62 Bigah",
+    "ownerName": "Arjun Patel",
+    "ownerEmail": "arjun.patel9103@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa12"
+    },
+    "size": "30.74 Bigah",
+    "ownerName": "Anita Thakur",
+    "ownerEmail": "anita.thakur3153@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa13"
+    },
+    "size": "17.43 Bigah",
+    "ownerName": "Raj Das",
+    "ownerEmail": "raj.das535@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa14"
+    },
+    "size": "40.25 Bigah",
+    "ownerName": "Rohit Chopra",
+    "ownerEmail": "rohit.chopra5969@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa15"
+    },
+    "size": "47.18 Bigah",
+    "ownerName": "Vikas Patel",
+    "ownerEmail": "vikas.patel8033@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa16"
+    },
+    "size": "7.03 Bigah",
+    "ownerName": "Amit Das",
+    "ownerEmail": "amit.das8786@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa17"
+    },
+    "size": "5.5 Bigah",
+    "ownerName": "Karan Khan",
+    "ownerEmail": "karan.khan773@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa18"
+    },
+    "size": "49.15 Bigah",
+    "ownerName": "Priya Jain",
+    "ownerEmail": "priya.jain6988@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa19"
+    },
+    "size": "0.58 Bigah",
+    "ownerName": "Karan Malhotra",
+    "ownerEmail": "karan.malhotra7341@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1a"
+    },
+    "size": "45.06 Bigah",
+    "ownerName": "Meena Malhotra",
+    "ownerEmail": "meena.malhotra530@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1b"
+    },
+    "size": "0.62 Bigah",
+    "ownerName": "Rahul Mehta",
+    "ownerEmail": "rahul.mehta8244@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1c"
+    },
+    "size": "2.65 Bigah",
+    "ownerName": "Lakshmi Verma",
+    "ownerEmail": "lakshmi.verma1929@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1d"
+    },
+    "size": "28 Bigah",
+    "ownerName": "Pooja Kumar",
+    "ownerEmail": "pooja.kumar9601@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1e"
+    },
+    "size": "42.67 Bigah",
+    "ownerName": "Amit Chopra",
+    "ownerEmail": "amit.chopra5346@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa1f"
+    },
+    "size": "5.38 Bigah",
+    "ownerName": "Kiran Nair",
+    "ownerEmail": "kiran.nair5697@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa20"
+    },
+    "size": "23.72 Bigah",
+    "ownerName": "Karan Patel",
+    "ownerEmail": "karan.patel1237@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa21"
+    },
+    "size": "7.51 Bigah",
+    "ownerName": "Amit Mehta",
+    "ownerEmail": "amit.mehta9175@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa22"
+    },
+    "size": "31.8 Bigah",
+    "ownerName": "Ritu Joshi",
+    "ownerEmail": "ritu.joshi3433@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa23"
+    },
+    "size": "17.06 Bigah",
+    "ownerName": "Sanjay Khan",
+    "ownerEmail": "sanjay.khan3679@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa24"
+    },
+    "size": "12.18 Bigah",
+    "ownerName": "Sanjay Nair",
+    "ownerEmail": "sanjay.nair958@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa25"
+    },
+    "size": "1.82 Bigah",
+    "ownerName": "Pooja Mehta",
+    "ownerEmail": "pooja.mehta8135@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa26"
+    },
+    "size": "33.96 Bigah",
+    "ownerName": "Raj Khan",
+    "ownerEmail": "raj.khan1040@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa27"
+    },
+    "size": "38.05 Bigah",
+    "ownerName": "Ritu Khan",
+    "ownerEmail": "ritu.khan4648@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa28"
+    },
+    "size": "33.27 Bigah",
+    "ownerName": "Rahul Bhatt",
+    "ownerEmail": "rahul.bhatt4057@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa29"
+    },
+    "size": "36.36 Bigah",
+    "ownerName": "Deepa Chopra",
+    "ownerEmail": "deepa.chopra4353@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2a"
+    },
+    "size": "48.99 Bigah",
+    "ownerName": "Raj Khan",
+    "ownerEmail": "raj.khan7081@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2b"
+    },
+    "size": "0.54 Bigah",
+    "ownerName": "Vikas Das",
+    "ownerEmail": "vikas.das6999@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2c"
+    },
+    "size": "22.28 Bigah",
+    "ownerName": "Deepa Iyer",
+    "ownerEmail": "deepa.iyer3347@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2d"
+    },
+    "size": "32.6 Bigah",
+    "ownerName": "Anita Singh",
+    "ownerEmail": "anita.singh5413@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2e"
+    },
+    "size": "35.3 Bigah",
+    "ownerName": "Karan Singh",
+    "ownerEmail": "karan.singh2758@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa2f"
+    },
+    "size": "7.32 Bigah",
+    "ownerName": "Vivek Mehta",
+    "ownerEmail": "vivek.mehta1774@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa30"
+    },
+    "size": "3.23 Bigah",
+    "ownerName": "Amit Malhotra",
+    "ownerEmail": "amit.malhotra6645@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa31"
+    },
+    "size": "22.51 Bigah",
+    "ownerName": "Neha Verma",
+    "ownerEmail": "neha.verma7860@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa32"
+    },
+    "size": "20.85 Bigah",
+    "ownerName": "Vikas Reddy",
+    "ownerEmail": "vikas.reddy2689@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa33"
+    },
+    "size": "11.8 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur9717@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa34"
+    },
+    "size": "22.74 Bigah",
+    "ownerName": "Raj Nair",
+    "ownerEmail": "raj.nair6296@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa35"
+    },
+    "size": "33.29 Bigah",
+    "ownerName": "Vivek Malhotra",
+    "ownerEmail": "vivek.malhotra3199@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa36"
+    },
+    "size": "20.72 Bigah",
+    "ownerName": "Ramesh Iyer",
+    "ownerEmail": "ramesh.iyer2050@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa37"
+    },
+    "size": "17 Bigah",
+    "ownerName": "Raj Nair",
+    "ownerEmail": "raj.nair3733@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa38"
+    },
+    "size": "25.26 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar7102@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa39"
+    },
+    "size": "45.17 Bigah",
+    "ownerName": "Neha Das",
+    "ownerEmail": "neha.das9958@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3a"
+    },
+    "size": "31.52 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur9638@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3b"
+    },
+    "size": "26.93 Bigah",
+    "ownerName": "Sanjay Verma",
+    "ownerEmail": "sanjay.verma8441@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3c"
+    },
+    "size": "28.47 Bigah",
+    "ownerName": "Meena Verma",
+    "ownerEmail": "meena.verma5415@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3d"
+    },
+    "size": "46.83 Bigah",
+    "ownerName": "Karan Jain",
+    "ownerEmail": "karan.jain90@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3e"
+    },
+    "size": "44.91 Bigah",
+    "ownerName": "Sanjay Malhotra",
+    "ownerEmail": "sanjay.malhotra3914@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa3f"
+    },
+    "size": "16.45 Bigah",
+    "ownerName": "Lakshmi Kumar",
+    "ownerEmail": "lakshmi.kumar2467@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa40"
+    },
+    "size": "10.57 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das5169@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa41"
+    },
+    "size": "25.42 Bigah",
+    "ownerName": "Vivek Singh",
+    "ownerEmail": "vivek.singh582@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa42"
+    },
+    "size": "16.62 Bigah",
+    "ownerName": "Raj Saxena",
+    "ownerEmail": "raj.saxena9196@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa43"
+    },
+    "size": "49.64 Bigah",
+    "ownerName": "Meena Singh",
+    "ownerEmail": "meena.singh9511@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa44"
+    },
+    "size": "5.71 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy2086@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa45"
+    },
+    "size": "12.91 Bigah",
+    "ownerName": "Raj Gupta",
+    "ownerEmail": "raj.gupta4761@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa46"
+    },
+    "size": "21.4 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair5130@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa47"
+    },
+    "size": "8.09 Bigah",
+    "ownerName": "Rahul Verma",
+    "ownerEmail": "rahul.verma5947@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa48"
+    },
+    "size": "44.44 Bigah",
+    "ownerName": "Deepa Iyer",
+    "ownerEmail": "deepa.iyer1764@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa49"
+    },
+    "size": "25.32 Bigah",
+    "ownerName": "Amit Jain",
+    "ownerEmail": "amit.jain7132@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4a"
+    },
+    "size": "38.46 Bigah",
+    "ownerName": "Ritu Khan",
+    "ownerEmail": "ritu.khan4287@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4b"
+    },
+    "size": "46.57 Bigah",
+    "ownerName": "Suresh Gupta",
+    "ownerEmail": "suresh.gupta5836@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4c"
+    },
+    "size": "9.75 Bigah",
+    "ownerName": "Vivek Sharma",
+    "ownerEmail": "vivek.sharma1603@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4d"
+    },
+    "size": "24.31 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar7839@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4e"
+    },
+    "size": "2.94 Bigah",
+    "ownerName": "Arjun Saxena",
+    "ownerEmail": "arjun.saxena457@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa4f"
+    },
+    "size": "10.61 Bigah",
+    "ownerName": "Manish Singh",
+    "ownerEmail": "manish.singh950@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa50"
+    },
+    "size": "27.75 Bigah",
+    "ownerName": "Kamal Verma",
+    "ownerEmail": "kamal.verma5643@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa51"
+    },
+    "size": "17.09 Bigah",
+    "ownerName": "Meena Malhotra",
+    "ownerEmail": "meena.malhotra3792@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa52"
+    },
+    "size": "17.93 Bigah",
+    "ownerName": "Deepa Singh",
+    "ownerEmail": "deepa.singh3397@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa53"
+    },
+    "size": "11.15 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel2820@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa54"
+    },
+    "size": "4.04 Bigah",
+    "ownerName": "Priya Mehta",
+    "ownerEmail": "priya.mehta5101@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa55"
+    },
+    "size": "29.84 Bigah",
+    "ownerName": "Priya Das",
+    "ownerEmail": "priya.das2830@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa56"
+    },
+    "size": "32.54 Bigah",
+    "ownerName": "Deepa Reddy",
+    "ownerEmail": "deepa.reddy3996@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa57"
+    },
+    "size": "28.15 Bigah",
+    "ownerName": "Neha Nair",
+    "ownerEmail": "neha.nair9332@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa58"
+    },
+    "size": "37.68 Bigah",
+    "ownerName": "Ramesh Sharma",
+    "ownerEmail": "ramesh.sharma9584@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa59"
+    },
+    "size": "35.74 Bigah",
+    "ownerName": "Ramesh Das",
+    "ownerEmail": "ramesh.das9879@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5a"
+    },
+    "size": "39.14 Bigah",
+    "ownerName": "Anita Joshi",
+    "ownerEmail": "anita.joshi8896@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5b"
+    },
+    "size": "30.73 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar1359@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5c"
+    },
+    "size": "15.4 Bigah",
+    "ownerName": "Pooja Sharma",
+    "ownerEmail": "pooja.sharma8580@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5d"
+    },
+    "size": "26.91 Bigah",
+    "ownerName": "Kiran Gupta",
+    "ownerEmail": "kiran.gupta3243@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5e"
+    },
+    "size": "30.95 Bigah",
+    "ownerName": "Suresh Das",
+    "ownerEmail": "suresh.das6605@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa5f"
+    },
+    "size": "21.17 Bigah",
+    "ownerName": "Vikas Gupta",
+    "ownerEmail": "vikas.gupta2573@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa60"
+    },
+    "size": "21.61 Bigah",
+    "ownerName": "Kamal Sharma",
+    "ownerEmail": "kamal.sharma6746@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa61"
+    },
+    "size": "49.39 Bigah",
+    "ownerName": "Kamal Reddy",
+    "ownerEmail": "kamal.reddy7130@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa62"
+    },
+    "size": "30.53 Bigah",
+    "ownerName": "Sunita Kumar",
+    "ownerEmail": "sunita.kumar3276@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa63"
+    },
+    "size": "6.13 Bigah",
+    "ownerName": "Ritu Saxena",
+    "ownerEmail": "ritu.saxena1211@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa64"
+    },
+    "size": "23 Bigah",
+    "ownerName": "Vivek Malhotra",
+    "ownerEmail": "vivek.malhotra5986@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa65"
+    },
+    "size": "19.87 Bigah",
+    "ownerName": "Raj Sharma",
+    "ownerEmail": "raj.sharma7979@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa66"
+    },
+    "size": "16.15 Bigah",
+    "ownerName": "Priya Das",
+    "ownerEmail": "priya.das3345@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa67"
+    },
+    "size": "20.03 Bigah",
+    "ownerName": "Meena Thakur",
+    "ownerEmail": "meena.thakur1778@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa68"
+    },
+    "size": "1.65 Bigah",
+    "ownerName": "Mohit Saxena",
+    "ownerEmail": "mohit.saxena1700@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa69"
+    },
+    "size": "7.8 Bigah",
+    "ownerName": "Sunita Nair",
+    "ownerEmail": "sunita.nair6204@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6a"
+    },
+    "size": "47.79 Bigah",
+    "ownerName": "Deepa Saxena",
+    "ownerEmail": "deepa.saxena16@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6b"
+    },
+    "size": "25.77 Bigah",
+    "ownerName": "Vivek Mehta",
+    "ownerEmail": "vivek.mehta3607@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6c"
+    },
+    "size": "21.67 Bigah",
+    "ownerName": "Manish Khan",
+    "ownerEmail": "manish.khan5213@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6d"
+    },
+    "size": "31.92 Bigah",
+    "ownerName": "Manish Nair",
+    "ownerEmail": "manish.nair6422@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6e"
+    },
+    "size": "24.68 Bigah",
+    "ownerName": "Priya Kumar",
+    "ownerEmail": "priya.kumar4578@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa6f"
+    },
+    "size": "42.17 Bigah",
+    "ownerName": "Sanjay Singh",
+    "ownerEmail": "sanjay.singh9472@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa70"
+    },
+    "size": "24.73 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das4443@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa71"
+    },
+    "size": "45.53 Bigah",
+    "ownerName": "Neha Malhotra",
+    "ownerEmail": "neha.malhotra694@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa72"
+    },
+    "size": "33.84 Bigah",
+    "ownerName": "Sanjay Gupta",
+    "ownerEmail": "sanjay.gupta8987@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa73"
+    },
+    "size": "22.14 Bigah",
+    "ownerName": "Mohit Das",
+    "ownerEmail": "mohit.das8900@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa74"
+    },
+    "size": "30.93 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain8528@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa75"
+    },
+    "size": "15.27 Bigah",
+    "ownerName": "Rohit Iyer",
+    "ownerEmail": "rohit.iyer4014@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa76"
+    },
+    "size": "26.38 Bigah",
+    "ownerName": "Suresh Bhatt",
+    "ownerEmail": "suresh.bhatt8969@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa77"
+    },
+    "size": "4.11 Bigah",
+    "ownerName": "Deepa Malhotra",
+    "ownerEmail": "deepa.malhotra3509@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa78"
+    },
+    "size": "15.4 Bigah",
+    "ownerName": "Rohit Mehta",
+    "ownerEmail": "rohit.mehta166@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa79"
+    },
+    "size": "42.48 Bigah",
+    "ownerName": "Deepa Nair",
+    "ownerEmail": "deepa.nair2220@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7a"
+    },
+    "size": "5.6 Bigah",
+    "ownerName": "Kiran Singh",
+    "ownerEmail": "kiran.singh9993@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7b"
+    },
+    "size": "23.73 Bigah",
+    "ownerName": "Sanjay Reddy",
+    "ownerEmail": "sanjay.reddy1814@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7c"
+    },
+    "size": "31.08 Bigah",
+    "ownerName": "Sunita Joshi",
+    "ownerEmail": "sunita.joshi1718@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7d"
+    },
+    "size": "40 Bigah",
+    "ownerName": "Manish Joshi",
+    "ownerEmail": "manish.joshi7809@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7e"
+    },
+    "size": "35.5 Bigah",
+    "ownerName": "Mohit Nair",
+    "ownerEmail": "mohit.nair8340@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa7f"
+    },
+    "size": "2.88 Bigah",
+    "ownerName": "Sunita Bhatt",
+    "ownerEmail": "sunita.bhatt431@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa80"
+    },
+    "size": "32.56 Bigah",
+    "ownerName": "Arjun Reddy",
+    "ownerEmail": "arjun.reddy3239@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa81"
+    },
+    "size": "18.54 Bigah",
+    "ownerName": "Pooja Sharma",
+    "ownerEmail": "pooja.sharma5807@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa82"
+    },
+    "size": "45.75 Bigah",
+    "ownerName": "Amit Malhotra",
+    "ownerEmail": "amit.malhotra5271@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa83"
+    },
+    "size": "32.86 Bigah",
+    "ownerName": "Anita Iyer",
+    "ownerEmail": "anita.iyer5169@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa84"
+    },
+    "size": "1.07 Bigah",
+    "ownerName": "Meena Malhotra",
+    "ownerEmail": "meena.malhotra9209@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa85"
+    },
+    "size": "28 Bigah",
+    "ownerName": "Ramesh Kumar",
+    "ownerEmail": "ramesh.kumar8797@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa86"
+    },
+    "size": "45.86 Bigah",
+    "ownerName": "Deepa Thakur",
+    "ownerEmail": "deepa.thakur530@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa87"
+    },
+    "size": "8.04 Bigah",
+    "ownerName": "Asha Chopra",
+    "ownerEmail": "asha.chopra6699@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa88"
+    },
+    "size": "49.3 Bigah",
+    "ownerName": "Neha Patel",
+    "ownerEmail": "neha.patel7278@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa89"
+    },
+    "size": "18.38 Bigah",
+    "ownerName": "Sunita Saxena",
+    "ownerEmail": "sunita.saxena6613@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8a"
+    },
+    "size": "11.24 Bigah",
+    "ownerName": "Ramesh Iyer",
+    "ownerEmail": "ramesh.iyer7057@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8b"
+    },
+    "size": "24.23 Bigah",
+    "ownerName": "Kamal Khan",
+    "ownerEmail": "kamal.khan2844@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8c"
+    },
+    "size": "34.98 Bigah",
+    "ownerName": "Sanjay Verma",
+    "ownerEmail": "sanjay.verma305@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8d"
+    },
+    "size": "16.78 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel7402@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8e"
+    },
+    "size": "42.41 Bigah",
+    "ownerName": "Rohit Bhatt",
+    "ownerEmail": "rohit.bhatt4645@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa8f"
+    },
+    "size": "9.53 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt6694@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa90"
+    },
+    "size": "22.4 Bigah",
+    "ownerName": "Raj Reddy",
+    "ownerEmail": "raj.reddy1734@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa91"
+    },
+    "size": "43.65 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair6311@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa92"
+    },
+    "size": "19.93 Bigah",
+    "ownerName": "Vikas Verma",
+    "ownerEmail": "vikas.verma267@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa93"
+    },
+    "size": "49.38 Bigah",
+    "ownerName": "Rahul Thakur",
+    "ownerEmail": "rahul.thakur8912@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa94"
+    },
+    "size": "10.43 Bigah",
+    "ownerName": "Rahul Patel",
+    "ownerEmail": "rahul.patel2910@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa95"
+    },
+    "size": "33.56 Bigah",
+    "ownerName": "Sunita Bose",
+    "ownerEmail": "sunita.bose5563@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa96"
+    },
+    "size": "17.24 Bigah",
+    "ownerName": "Amit Joshi",
+    "ownerEmail": "amit.joshi5870@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa97"
+    },
+    "size": "43.42 Bigah",
+    "ownerName": "Suresh Saxena",
+    "ownerEmail": "suresh.saxena155@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa98"
+    },
+    "size": "45.63 Bigah",
+    "ownerName": "Neha Verma",
+    "ownerEmail": "neha.verma7961@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa99"
+    },
+    "size": "7.89 Bigah",
+    "ownerName": "Asha Iyer",
+    "ownerEmail": "asha.iyer8491@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9a"
+    },
+    "size": "24.05 Bigah",
+    "ownerName": "Manish Gupta",
+    "ownerEmail": "manish.gupta1845@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9b"
+    },
+    "size": "30.35 Bigah",
+    "ownerName": "Vivek Jain",
+    "ownerEmail": "vivek.jain4196@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9c"
+    },
+    "size": "9.59 Bigah",
+    "ownerName": "Lakshmi Iyer",
+    "ownerEmail": "lakshmi.iyer9514@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9d"
+    },
+    "size": "34.05 Bigah",
+    "ownerName": "Arjun Malhotra",
+    "ownerEmail": "arjun.malhotra19@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9e"
+    },
+    "size": "37.92 Bigah",
+    "ownerName": "Priya Mehta",
+    "ownerEmail": "priya.mehta2247@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aa9f"
+    },
+    "size": "42.14 Bigah",
+    "ownerName": "Vikas Bose",
+    "ownerEmail": "vikas.bose1599@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa0"
+    },
+    "size": "27.53 Bigah",
+    "ownerName": "Vikas Das",
+    "ownerEmail": "vikas.das2546@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa1"
+    },
+    "size": "39.42 Bigah",
+    "ownerName": "Suresh Nair",
+    "ownerEmail": "suresh.nair9739@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa2"
+    },
+    "size": "29.78 Bigah",
+    "ownerName": "Rahul Kumar",
+    "ownerEmail": "rahul.kumar8749@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa3"
+    },
+    "size": "49.49 Bigah",
+    "ownerName": "Arjun Chopra",
+    "ownerEmail": "arjun.chopra3036@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa4"
+    },
+    "size": "6.91 Bigah",
+    "ownerName": "Rohit Kumar",
+    "ownerEmail": "rohit.kumar291@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa5"
+    },
+    "size": "10.36 Bigah",
+    "ownerName": "Anita Malhotra",
+    "ownerEmail": "anita.malhotra9541@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa6"
+    },
+    "size": "18.73 Bigah",
+    "ownerName": "Priya Bose",
+    "ownerEmail": "priya.bose312@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa7"
+    },
+    "size": "15.71 Bigah",
+    "ownerName": "Suresh Das",
+    "ownerEmail": "suresh.das6225@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa8"
+    },
+    "size": "29.04 Bigah",
+    "ownerName": "Rohit Thakur",
+    "ownerEmail": "rohit.thakur9893@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaa9"
+    },
+    "size": "31.67 Bigah",
+    "ownerName": "Arjun Verma",
+    "ownerEmail": "arjun.verma3187@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaaa"
+    },
+    "size": "12.81 Bigah",
+    "ownerName": "Arjun Iyer",
+    "ownerEmail": "arjun.iyer8961@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaab"
+    },
+    "size": "16.33 Bigah",
+    "ownerName": "Kamal Chopra",
+    "ownerEmail": "kamal.chopra9381@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaac"
+    },
+    "size": "21.11 Bigah",
+    "ownerName": "Neha Iyer",
+    "ownerEmail": "neha.iyer9629@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaad"
+    },
+    "size": "16.01 Bigah",
+    "ownerName": "Kiran Kumar",
+    "ownerEmail": "kiran.kumar8707@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaae"
+    },
+    "size": "18.99 Bigah",
+    "ownerName": "Amit Reddy",
+    "ownerEmail": "amit.reddy3702@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaaf"
+    },
+    "size": "29.09 Bigah",
+    "ownerName": "Sanjay Bhatt",
+    "ownerEmail": "sanjay.bhatt7619@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab0"
+    },
+    "size": "40.21 Bigah",
+    "ownerName": "Deepa Malhotra",
+    "ownerEmail": "deepa.malhotra1172@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab1"
+    },
+    "size": "20.35 Bigah",
+    "ownerName": "Suresh Patel",
+    "ownerEmail": "suresh.patel8845@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab2"
+    },
+    "size": "32.91 Bigah",
+    "ownerName": "Amit Chopra",
+    "ownerEmail": "amit.chopra2443@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab3"
+    },
+    "size": "46.48 Bigah",
+    "ownerName": "Meena Saxena",
+    "ownerEmail": "meena.saxena3284@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab4"
+    },
+    "size": "25.09 Bigah",
+    "ownerName": "Sanjay Das",
+    "ownerEmail": "sanjay.das2079@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab5"
+    },
+    "size": "16.86 Bigah",
+    "ownerName": "Arjun Sharma",
+    "ownerEmail": "arjun.sharma2327@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab6"
+    },
+    "size": "40.62 Bigah",
+    "ownerName": "Arjun Reddy",
+    "ownerEmail": "arjun.reddy3565@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab7"
+    },
+    "size": "27.97 Bigah",
+    "ownerName": "Ritu Khan",
+    "ownerEmail": "ritu.khan7963@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab8"
+    },
+    "size": "15.89 Bigah",
+    "ownerName": "Arjun Verma",
+    "ownerEmail": "arjun.verma6550@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aab9"
+    },
+    "size": "2.73 Bigah",
+    "ownerName": "Deepa Malhotra",
+    "ownerEmail": "deepa.malhotra9039@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaba"
+    },
+    "size": "23.14 Bigah",
+    "ownerName": "Amit Thakur",
+    "ownerEmail": "amit.thakur8249@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aabb"
+    },
+    "size": "47.25 Bigah",
+    "ownerName": "Amit Kumar",
+    "ownerEmail": "amit.kumar8484@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aabc"
+    },
+    "size": "1.87 Bigah",
+    "ownerName": "Asha Malhotra",
+    "ownerEmail": "asha.malhotra7881@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aabd"
+    },
+    "size": "38.55 Bigah",
+    "ownerName": "Manish Iyer",
+    "ownerEmail": "manish.iyer1037@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aabe"
+    },
+    "size": "49.28 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das5655@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aabf"
+    },
+    "size": "26.9 Bigah",
+    "ownerName": "Pooja Das",
+    "ownerEmail": "pooja.das6102@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac0"
+    },
+    "size": "6.03 Bigah",
+    "ownerName": "Priya Iyer",
+    "ownerEmail": "priya.iyer3566@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac1"
+    },
+    "size": "33.61 Bigah",
+    "ownerName": "Asha Thakur",
+    "ownerEmail": "asha.thakur4455@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac2"
+    },
+    "size": "13.83 Bigah",
+    "ownerName": "Suresh Mehta",
+    "ownerEmail": "suresh.mehta1996@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac3"
+    },
+    "size": "3.74 Bigah",
+    "ownerName": "Manish Saxena",
+    "ownerEmail": "manish.saxena6575@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac4"
+    },
+    "size": "32.39 Bigah",
+    "ownerName": "Karan Mehta",
+    "ownerEmail": "karan.mehta7721@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac5"
+    },
+    "size": "48.8 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar8018@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac6"
+    },
+    "size": "8.23 Bigah",
+    "ownerName": "Deepa Bhatt",
+    "ownerEmail": "deepa.bhatt8559@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac7"
+    },
+    "size": "34.81 Bigah",
+    "ownerName": "Arjun Reddy",
+    "ownerEmail": "arjun.reddy591@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac8"
+    },
+    "size": "27.26 Bigah",
+    "ownerName": "Suresh Patel",
+    "ownerEmail": "suresh.patel5366@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aac9"
+    },
+    "size": "12.03 Bigah",
+    "ownerName": "Vikas Das",
+    "ownerEmail": "vikas.das8899@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaca"
+    },
+    "size": "17.58 Bigah",
+    "ownerName": "Arjun Verma",
+    "ownerEmail": "arjun.verma8610@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aacb"
+    },
+    "size": "32.98 Bigah",
+    "ownerName": "Arjun Patel",
+    "ownerEmail": "arjun.patel1019@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aacc"
+    },
+    "size": "41.98 Bigah",
+    "ownerName": "Meena Thakur",
+    "ownerEmail": "meena.thakur1501@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aacd"
+    },
+    "size": "49.42 Bigah",
+    "ownerName": "Suresh Kumar",
+    "ownerEmail": "suresh.kumar2453@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aace"
+    },
+    "size": "24.08 Bigah",
+    "ownerName": "Meena Nair",
+    "ownerEmail": "meena.nair6015@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aacf"
+    },
+    "size": "12.18 Bigah",
+    "ownerName": "Raj Iyer",
+    "ownerEmail": "raj.iyer6551@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad0"
+    },
+    "size": "34.45 Bigah",
+    "ownerName": "Deepa Khan",
+    "ownerEmail": "deepa.khan6261@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad1"
+    },
+    "size": "9.54 Bigah",
+    "ownerName": "Asha Nair",
+    "ownerEmail": "asha.nair1582@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad2"
+    },
+    "size": "32.59 Bigah",
+    "ownerName": "Anita Jain",
+    "ownerEmail": "anita.jain4635@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad3"
+    },
+    "size": "23.39 Bigah",
+    "ownerName": "Neha Chopra",
+    "ownerEmail": "neha.chopra2300@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad4"
+    },
+    "size": "12.72 Bigah",
+    "ownerName": "Deepa Nair",
+    "ownerEmail": "deepa.nair6233@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad5"
+    },
+    "size": "40.46 Bigah",
+    "ownerName": "Sunita Singh",
+    "ownerEmail": "sunita.singh1502@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad6"
+    },
+    "size": "20.57 Bigah",
+    "ownerName": "Kiran Chopra",
+    "ownerEmail": "kiran.chopra9376@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad7"
+    },
+    "size": "1.55 Bigah",
+    "ownerName": "Ritu Bose",
+    "ownerEmail": "ritu.bose991@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad8"
+    },
+    "size": "23.36 Bigah",
+    "ownerName": "Neha Mehta",
+    "ownerEmail": "neha.mehta8487@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aad9"
+    },
+    "size": "2.05 Bigah",
+    "ownerName": "Anita Singh",
+    "ownerEmail": "anita.singh6580@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aada"
+    },
+    "size": "42.75 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy7298@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aadb"
+    },
+    "size": "38.34 Bigah",
+    "ownerName": "Neha Verma",
+    "ownerEmail": "neha.verma5148@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aadc"
+    },
+    "size": "40.63 Bigah",
+    "ownerName": "Kamal Reddy",
+    "ownerEmail": "kamal.reddy5706@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aadd"
+    },
+    "size": "1.59 Bigah",
+    "ownerName": "Ramesh Jain",
+    "ownerEmail": "ramesh.jain4791@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aade"
+    },
+    "size": "17.53 Bigah",
+    "ownerName": "Anita Gupta",
+    "ownerEmail": "anita.gupta4196@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aadf"
+    },
+    "size": "29.39 Bigah",
+    "ownerName": "Asha Singh",
+    "ownerEmail": "asha.singh2160@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae0"
+    },
+    "size": "38.49 Bigah",
+    "ownerName": "Raj Khan",
+    "ownerEmail": "raj.khan4647@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae1"
+    },
+    "size": "24.34 Bigah",
+    "ownerName": "Raj Malhotra",
+    "ownerEmail": "raj.malhotra5102@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae2"
+    },
+    "size": "29.42 Bigah",
+    "ownerName": "Sanjay Bose",
+    "ownerEmail": "sanjay.bose1491@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae3"
+    },
+    "size": "10.97 Bigah",
+    "ownerName": "Karan Mehta",
+    "ownerEmail": "karan.mehta5583@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae4"
+    },
+    "size": "49.16 Bigah",
+    "ownerName": "Ritu Khan",
+    "ownerEmail": "ritu.khan5608@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae5"
+    },
+    "size": "19.17 Bigah",
+    "ownerName": "Sanjay Kumar",
+    "ownerEmail": "sanjay.kumar4219@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae6"
+    },
+    "size": "22.28 Bigah",
+    "ownerName": "Karan Sharma",
+    "ownerEmail": "karan.sharma4950@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae7"
+    },
+    "size": "39.45 Bigah",
+    "ownerName": "Neha Reddy",
+    "ownerEmail": "neha.reddy6187@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae8"
+    },
+    "size": "4.84 Bigah",
+    "ownerName": "Priya Khan",
+    "ownerEmail": "priya.khan7582@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aae9"
+    },
+    "size": "31.19 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel4049@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaea"
+    },
+    "size": "6.06 Bigah",
+    "ownerName": "Kamal Saxena",
+    "ownerEmail": "kamal.saxena990@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaeb"
+    },
+    "size": "28.93 Bigah",
+    "ownerName": "Ramesh Joshi",
+    "ownerEmail": "ramesh.joshi6450@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaec"
+    },
+    "size": "27.64 Bigah",
+    "ownerName": "Raj Sharma",
+    "ownerEmail": "raj.sharma6816@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaed"
+    },
+    "size": "9.75 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan7192@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaee"
+    },
+    "size": "8.37 Bigah",
+    "ownerName": "Pooja Bhatt",
+    "ownerEmail": "pooja.bhatt2915@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaef"
+    },
+    "size": "36.31 Bigah",
+    "ownerName": "Ritu Patel",
+    "ownerEmail": "ritu.patel4837@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf0"
+    },
+    "size": "2.33 Bigah",
+    "ownerName": "Arjun Bose",
+    "ownerEmail": "arjun.bose1928@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf1"
+    },
+    "size": "7.69 Bigah",
+    "ownerName": "Karan Gupta",
+    "ownerEmail": "karan.gupta944@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf2"
+    },
+    "size": "7.94 Bigah",
+    "ownerName": "Rohit Reddy",
+    "ownerEmail": "rohit.reddy2042@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf3"
+    },
+    "size": "33.53 Bigah",
+    "ownerName": "Manish Joshi",
+    "ownerEmail": "manish.joshi3704@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf4"
+    },
+    "size": "15.2 Bigah",
+    "ownerName": "Ramesh Khan",
+    "ownerEmail": "ramesh.khan8413@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf5"
+    },
+    "size": "13.8 Bigah",
+    "ownerName": "Neha Saxena",
+    "ownerEmail": "neha.saxena842@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf6"
+    },
+    "size": "45.59 Bigah",
+    "ownerName": "Vikas Joshi",
+    "ownerEmail": "vikas.joshi6339@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf7"
+    },
+    "size": "15.53 Bigah",
+    "ownerName": "Raj Bose",
+    "ownerEmail": "raj.bose564@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf8"
+    },
+    "size": "46.95 Bigah",
+    "ownerName": "Ritu Singh",
+    "ownerEmail": "ritu.singh35@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaf9"
+    },
+    "size": "31.85 Bigah",
+    "ownerName": "Arjun Bhatt",
+    "ownerEmail": "arjun.bhatt357@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aafa"
+    },
+    "size": "27.8 Bigah",
+    "ownerName": "Lakshmi Saxena",
+    "ownerEmail": "lakshmi.saxena7761@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aafb"
+    },
+    "size": "33.92 Bigah",
+    "ownerName": "Meena Bhatt",
+    "ownerEmail": "meena.bhatt1071@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aafc"
+    },
+    "size": "16.4 Bigah",
+    "ownerName": "Vivek Verma",
+    "ownerEmail": "vivek.verma9956@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aafd"
+    },
+    "size": "20.39 Bigah",
+    "ownerName": "Meena Bose",
+    "ownerEmail": "meena.bose897@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aafe"
+    },
+    "size": "36.27 Bigah",
+    "ownerName": "Meena Gupta",
+    "ownerEmail": "meena.gupta9364@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aaff"
+    },
+    "size": "41.04 Bigah",
+    "ownerName": "Rahul Bhatt",
+    "ownerEmail": "rahul.bhatt1403@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab00"
+    },
+    "size": "22.02 Bigah",
+    "ownerName": "Sunita Mehta",
+    "ownerEmail": "sunita.mehta6764@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab01"
+    },
+    "size": "4.29 Bigah",
+    "ownerName": "Rohit Khan",
+    "ownerEmail": "rohit.khan4213@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab02"
+    },
+    "size": "10.43 Bigah",
+    "ownerName": "Pooja Singh",
+    "ownerEmail": "pooja.singh1725@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab03"
+    },
+    "size": "5.6 Bigah",
+    "ownerName": "Lakshmi Khan",
+    "ownerEmail": "lakshmi.khan3205@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab04"
+    },
+    "size": "37.83 Bigah",
+    "ownerName": "Kiran Bhatt",
+    "ownerEmail": "kiran.bhatt4462@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab05"
+    },
+    "size": "37.62 Bigah",
+    "ownerName": "Lakshmi Bose",
+    "ownerEmail": "lakshmi.bose7545@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab06"
+    },
+    "size": "36.81 Bigah",
+    "ownerName": "Asha Reddy",
+    "ownerEmail": "asha.reddy3308@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab07"
+    },
+    "size": "1 Bigah",
+    "ownerName": "Sanjay Thakur",
+    "ownerEmail": "sanjay.thakur2560@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab08"
+    },
+    "size": "14.52 Bigah",
+    "ownerName": "Priya Das",
+    "ownerEmail": "priya.das8262@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab09"
+    },
+    "size": "1.47 Bigah",
+    "ownerName": "Deepa Mehta",
+    "ownerEmail": "deepa.mehta676@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0a"
+    },
+    "size": "22.49 Bigah",
+    "ownerName": "Ritu Bhatt",
+    "ownerEmail": "ritu.bhatt877@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0b"
+    },
+    "size": "45.1 Bigah",
+    "ownerName": "Priya Jain",
+    "ownerEmail": "priya.jain7885@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0c"
+    },
+    "size": "41.85 Bigah",
+    "ownerName": "Anita Sharma",
+    "ownerEmail": "anita.sharma8180@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0d"
+    },
+    "size": "23.75 Bigah",
+    "ownerName": "Priya Iyer",
+    "ownerEmail": "priya.iyer9682@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0e"
+    },
+    "size": "26.52 Bigah",
+    "ownerName": "Manish Thakur",
+    "ownerEmail": "manish.thakur2757@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab0f"
+    },
+    "size": "21.19 Bigah",
+    "ownerName": "Pooja Bose",
+    "ownerEmail": "pooja.bose4283@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab10"
+    },
+    "size": "9.82 Bigah",
+    "ownerName": "Pooja Thakur",
+    "ownerEmail": "pooja.thakur6005@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab11"
+    },
+    "size": "3.16 Bigah",
+    "ownerName": "Sanjay Chopra",
+    "ownerEmail": "sanjay.chopra9805@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab12"
+    },
+    "size": "33.36 Bigah",
+    "ownerName": "Manish Verma",
+    "ownerEmail": "manish.verma1112@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab13"
+    },
+    "size": "9.54 Bigah",
+    "ownerName": "Vikas Sharma",
+    "ownerEmail": "vikas.sharma4916@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab14"
+    },
+    "size": "39.48 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel7591@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab15"
+    },
+    "size": "10.97 Bigah",
+    "ownerName": "Deepa Singh",
+    "ownerEmail": "deepa.singh9717@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab16"
+    },
+    "size": "14.56 Bigah",
+    "ownerName": "Arjun Bose",
+    "ownerEmail": "arjun.bose4914@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab17"
+    },
+    "size": "35.1 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur2449@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab18"
+    },
+    "size": "48.39 Bigah",
+    "ownerName": "Rohit Jain",
+    "ownerEmail": "rohit.jain780@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab19"
+    },
+    "size": "20.84 Bigah",
+    "ownerName": "Pooja Jain",
+    "ownerEmail": "pooja.jain7779@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1a"
+    },
+    "size": "16.35 Bigah",
+    "ownerName": "Lakshmi Khan",
+    "ownerEmail": "lakshmi.khan3502@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1b"
+    },
+    "size": "46.63 Bigah",
+    "ownerName": "Meena Gupta",
+    "ownerEmail": "meena.gupta7936@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1c"
+    },
+    "size": "27.58 Bigah",
+    "ownerName": "Asha Chopra",
+    "ownerEmail": "asha.chopra5082@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1d"
+    },
+    "size": "30.19 Bigah",
+    "ownerName": "Kiran Joshi",
+    "ownerEmail": "kiran.joshi6842@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1e"
+    },
+    "size": "2.89 Bigah",
+    "ownerName": "Pooja Mehta",
+    "ownerEmail": "pooja.mehta3671@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab1f"
+    },
+    "size": "0.51 Bigah",
+    "ownerName": "Rohit Saxena",
+    "ownerEmail": "rohit.saxena3518@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab20"
+    },
+    "size": "40.57 Bigah",
+    "ownerName": "Lakshmi Chopra",
+    "ownerEmail": "lakshmi.chopra2786@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab21"
+    },
+    "size": "27.39 Bigah",
+    "ownerName": "Suresh Mehta",
+    "ownerEmail": "suresh.mehta9326@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab22"
+    },
+    "size": "19.75 Bigah",
+    "ownerName": "Suresh Reddy",
+    "ownerEmail": "suresh.reddy6614@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab23"
+    },
+    "size": "5.02 Bigah",
+    "ownerName": "Ritu Malhotra",
+    "ownerEmail": "ritu.malhotra9780@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab24"
+    },
+    "size": "7.03 Bigah",
+    "ownerName": "Pooja Bhatt",
+    "ownerEmail": "pooja.bhatt8833@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab25"
+    },
+    "size": "45.32 Bigah",
+    "ownerName": "Neha Gupta",
+    "ownerEmail": "neha.gupta4382@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab26"
+    },
+    "size": "49.56 Bigah",
+    "ownerName": "Deepa Kumar",
+    "ownerEmail": "deepa.kumar1583@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab27"
+    },
+    "size": "35.7 Bigah",
+    "ownerName": "Mohit Sharma",
+    "ownerEmail": "mohit.sharma5142@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab28"
+    },
+    "size": "5.55 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan7698@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab29"
+    },
+    "size": "17.9 Bigah",
+    "ownerName": "Kamal Verma",
+    "ownerEmail": "kamal.verma2023@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2a"
+    },
+    "size": "4.83 Bigah",
+    "ownerName": "Amit Jain",
+    "ownerEmail": "amit.jain2220@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2b"
+    },
+    "size": "42.34 Bigah",
+    "ownerName": "Lakshmi Mehta",
+    "ownerEmail": "lakshmi.mehta7303@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2c"
+    },
+    "size": "4.34 Bigah",
+    "ownerName": "Kamal Sharma",
+    "ownerEmail": "kamal.sharma2843@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2d"
+    },
+    "size": "5.9 Bigah",
+    "ownerName": "Kamal Das",
+    "ownerEmail": "kamal.das2658@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2e"
+    },
+    "size": "48.76 Bigah",
+    "ownerName": "Lakshmi Bhatt",
+    "ownerEmail": "lakshmi.bhatt6119@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab2f"
+    },
+    "size": "36.21 Bigah",
+    "ownerName": "Deepa Iyer",
+    "ownerEmail": "deepa.iyer8768@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab30"
+    },
+    "size": "3.34 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel5408@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab31"
+    },
+    "size": "42.06 Bigah",
+    "ownerName": "Asha Saxena",
+    "ownerEmail": "asha.saxena6439@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab32"
+    },
+    "size": "22.44 Bigah",
+    "ownerName": "Karan Nair",
+    "ownerEmail": "karan.nair6678@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab33"
+    },
+    "size": "2.81 Bigah",
+    "ownerName": "Lakshmi Bose",
+    "ownerEmail": "lakshmi.bose5135@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab34"
+    },
+    "size": "16.56 Bigah",
+    "ownerName": "Asha Joshi",
+    "ownerEmail": "asha.joshi5302@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab35"
+    },
+    "size": "29.29 Bigah",
+    "ownerName": "Deepa Khan",
+    "ownerEmail": "deepa.khan8809@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab36"
+    },
+    "size": "34.64 Bigah",
+    "ownerName": "Suresh Khan",
+    "ownerEmail": "suresh.khan2329@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab37"
+    },
+    "size": "28.87 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel2239@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab38"
+    },
+    "size": "13.64 Bigah",
+    "ownerName": "Rohit Das",
+    "ownerEmail": "rohit.das9132@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab39"
+    },
+    "size": "6.96 Bigah",
+    "ownerName": "Manish Chopra",
+    "ownerEmail": "manish.chopra3897@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3a"
+    },
+    "size": "28.74 Bigah",
+    "ownerName": "Anita Khan",
+    "ownerEmail": "anita.khan1730@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3b"
+    },
+    "size": "12.1 Bigah",
+    "ownerName": "Lakshmi Verma",
+    "ownerEmail": "lakshmi.verma2645@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3c"
+    },
+    "size": "15.7 Bigah",
+    "ownerName": "Ritu Mehta",
+    "ownerEmail": "ritu.mehta9289@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3d"
+    },
+    "size": "23.4 Bigah",
+    "ownerName": "Deepa Sharma",
+    "ownerEmail": "deepa.sharma1631@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3e"
+    },
+    "size": "11.21 Bigah",
+    "ownerName": "Mohit Bose",
+    "ownerEmail": "mohit.bose9262@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab3f"
+    },
+    "size": "8.99 Bigah",
+    "ownerName": "Sunita Malhotra",
+    "ownerEmail": "sunita.malhotra532@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab40"
+    },
+    "size": "1.79 Bigah",
+    "ownerName": "Vivek Jain",
+    "ownerEmail": "vivek.jain734@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab41"
+    },
+    "size": "5.6 Bigah",
+    "ownerName": "Ramesh Reddy",
+    "ownerEmail": "ramesh.reddy4399@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab42"
+    },
+    "size": "46.62 Bigah",
+    "ownerName": "Kiran Patel",
+    "ownerEmail": "kiran.patel8756@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab43"
+    },
+    "size": "5.42 Bigah",
+    "ownerName": "Lakshmi Saxena",
+    "ownerEmail": "lakshmi.saxena2230@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab44"
+    },
+    "size": "9.63 Bigah",
+    "ownerName": "Arjun Singh",
+    "ownerEmail": "arjun.singh6559@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab45"
+    },
+    "size": "11.82 Bigah",
+    "ownerName": "Asha Gupta",
+    "ownerEmail": "asha.gupta6112@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab46"
+    },
+    "size": "13.86 Bigah",
+    "ownerName": "Rahul Jain",
+    "ownerEmail": "rahul.jain7849@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab47"
+    },
+    "size": "43.04 Bigah",
+    "ownerName": "Arjun Nair",
+    "ownerEmail": "arjun.nair8753@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab48"
+    },
+    "size": "32.46 Bigah",
+    "ownerName": "Deepa Sharma",
+    "ownerEmail": "deepa.sharma1751@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab49"
+    },
+    "size": "32.23 Bigah",
+    "ownerName": "Raj Khan",
+    "ownerEmail": "raj.khan1132@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4a"
+    },
+    "size": "33.71 Bigah",
+    "ownerName": "Kiran Khan",
+    "ownerEmail": "kiran.khan2955@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4b"
+    },
+    "size": "10.18 Bigah",
+    "ownerName": "Suresh Singh",
+    "ownerEmail": "suresh.singh5656@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4c"
+    },
+    "size": "12.01 Bigah",
+    "ownerName": "Sunita Chopra",
+    "ownerEmail": "sunita.chopra2834@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4d"
+    },
+    "size": "34.84 Bigah",
+    "ownerName": "Sunita Verma",
+    "ownerEmail": "sunita.verma7304@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4e"
+    },
+    "size": "13.58 Bigah",
+    "ownerName": "Sunita Gupta",
+    "ownerEmail": "sunita.gupta204@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab4f"
+    },
+    "size": "8.18 Bigah",
+    "ownerName": "Priya Jain",
+    "ownerEmail": "priya.jain2965@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab50"
+    },
+    "size": "1.51 Bigah",
+    "ownerName": "Amit Sharma",
+    "ownerEmail": "amit.sharma352@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab51"
+    },
+    "size": "8.16 Bigah",
+    "ownerName": "Lakshmi Malhotra",
+    "ownerEmail": "lakshmi.malhotra8356@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab52"
+    },
+    "size": "27.91 Bigah",
+    "ownerName": "Rohit Chopra",
+    "ownerEmail": "rohit.chopra1891@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab53"
+    },
+    "size": "42.86 Bigah",
+    "ownerName": "Vikas Gupta",
+    "ownerEmail": "vikas.gupta9572@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab54"
+    },
+    "size": "1.97 Bigah",
+    "ownerName": "Lakshmi Das",
+    "ownerEmail": "lakshmi.das9702@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab55"
+    },
+    "size": "43.35 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur2066@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab56"
+    },
+    "size": "45.28 Bigah",
+    "ownerName": "Anita Bose",
+    "ownerEmail": "anita.bose6773@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab57"
+    },
+    "size": "3.41 Bigah",
+    "ownerName": "Sunita Das",
+    "ownerEmail": "sunita.das2799@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab58"
+    },
+    "size": "24.72 Bigah",
+    "ownerName": "Suresh Nair",
+    "ownerEmail": "suresh.nair8679@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab59"
+    },
+    "size": "16.14 Bigah",
+    "ownerName": "Anita Iyer",
+    "ownerEmail": "anita.iyer342@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5a"
+    },
+    "size": "2.33 Bigah",
+    "ownerName": "Ramesh Sharma",
+    "ownerEmail": "ramesh.sharma7997@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5b"
+    },
+    "size": "42.74 Bigah",
+    "ownerName": "Ramesh Sharma",
+    "ownerEmail": "ramesh.sharma4873@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5c"
+    },
+    "size": "35.32 Bigah",
+    "ownerName": "Suresh Verma",
+    "ownerEmail": "suresh.verma5570@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5d"
+    },
+    "size": "16.01 Bigah",
+    "ownerName": "Vivek Verma",
+    "ownerEmail": "vivek.verma2884@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5e"
+    },
+    "size": "22.65 Bigah",
+    "ownerName": "Asha Reddy",
+    "ownerEmail": "asha.reddy2826@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab5f"
+    },
+    "size": "20.74 Bigah",
+    "ownerName": "Lakshmi Khan",
+    "ownerEmail": "lakshmi.khan8041@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab60"
+    },
+    "size": "5.47 Bigah",
+    "ownerName": "Meena Gupta",
+    "ownerEmail": "meena.gupta5637@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab61"
+    },
+    "size": "30.06 Bigah",
+    "ownerName": "Manish Das",
+    "ownerEmail": "manish.das3166@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab62"
+    },
+    "size": "17.49 Bigah",
+    "ownerName": "Sanjay Reddy",
+    "ownerEmail": "sanjay.reddy4703@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab63"
+    },
+    "size": "17.4 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan1558@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab64"
+    },
+    "size": "11.79 Bigah",
+    "ownerName": "Rohit Reddy",
+    "ownerEmail": "rohit.reddy5551@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab65"
+    },
+    "size": "28.8 Bigah",
+    "ownerName": "Neha Khan",
+    "ownerEmail": "neha.khan2434@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab66"
+    },
+    "size": "30.76 Bigah",
+    "ownerName": "Sunita Jain",
+    "ownerEmail": "sunita.jain298@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab67"
+    },
+    "size": "15.22 Bigah",
+    "ownerName": "Asha Iyer",
+    "ownerEmail": "asha.iyer3004@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab68"
+    },
+    "size": "11.93 Bigah",
+    "ownerName": "Anita Joshi",
+    "ownerEmail": "anita.joshi8079@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab69"
+    },
+    "size": "1.56 Bigah",
+    "ownerName": "Deepa Das",
+    "ownerEmail": "deepa.das6906@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6a"
+    },
+    "size": "17.69 Bigah",
+    "ownerName": "Raj Iyer",
+    "ownerEmail": "raj.iyer2553@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6b"
+    },
+    "size": "46.06 Bigah",
+    "ownerName": "Manish Malhotra",
+    "ownerEmail": "manish.malhotra2084@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6c"
+    },
+    "size": "47.38 Bigah",
+    "ownerName": "Karan Chopra",
+    "ownerEmail": "karan.chopra825@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6d"
+    },
+    "size": "40.55 Bigah",
+    "ownerName": "Karan Nair",
+    "ownerEmail": "karan.nair3942@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6e"
+    },
+    "size": "40.83 Bigah",
+    "ownerName": "Kiran Gupta",
+    "ownerEmail": "kiran.gupta6598@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab6f"
+    },
+    "size": "13.37 Bigah",
+    "ownerName": "Sanjay Mehta",
+    "ownerEmail": "sanjay.mehta1041@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab70"
+    },
+    "size": "18.31 Bigah",
+    "ownerName": "Meena Gupta",
+    "ownerEmail": "meena.gupta5339@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab71"
+    },
+    "size": "28.81 Bigah",
+    "ownerName": "Priya Joshi",
+    "ownerEmail": "priya.joshi3810@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab72"
+    },
+    "size": "28.65 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain7894@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab73"
+    },
+    "size": "48.58 Bigah",
+    "ownerName": "Mohit Iyer",
+    "ownerEmail": "mohit.iyer7219@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab74"
+    },
+    "size": "36.23 Bigah",
+    "ownerName": "Raj Gupta",
+    "ownerEmail": "raj.gupta9345@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab75"
+    },
+    "size": "21.38 Bigah",
+    "ownerName": "Asha Kumar",
+    "ownerEmail": "asha.kumar6423@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab76"
+    },
+    "size": "28.15 Bigah",
+    "ownerName": "Pooja Chopra",
+    "ownerEmail": "pooja.chopra7609@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab77"
+    },
+    "size": "0.56 Bigah",
+    "ownerName": "Karan Mehta",
+    "ownerEmail": "karan.mehta8847@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab78"
+    },
+    "size": "14.83 Bigah",
+    "ownerName": "Ritu Reddy",
+    "ownerEmail": "ritu.reddy6446@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab79"
+    },
+    "size": "9.94 Bigah",
+    "ownerName": "Vikas Saxena",
+    "ownerEmail": "vikas.saxena5537@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7a"
+    },
+    "size": "29.49 Bigah",
+    "ownerName": "Suresh Reddy",
+    "ownerEmail": "suresh.reddy4789@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7b"
+    },
+    "size": "6.98 Bigah",
+    "ownerName": "Ramesh Patel",
+    "ownerEmail": "ramesh.patel3752@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7c"
+    },
+    "size": "7.63 Bigah",
+    "ownerName": "Meena Patel",
+    "ownerEmail": "meena.patel2168@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7d"
+    },
+    "size": "3.19 Bigah",
+    "ownerName": "Mohit Mehta",
+    "ownerEmail": "mohit.mehta5182@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7e"
+    },
+    "size": "22.53 Bigah",
+    "ownerName": "Mohit Joshi",
+    "ownerEmail": "mohit.joshi2592@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab7f"
+    },
+    "size": "20.27 Bigah",
+    "ownerName": "Suresh Patel",
+    "ownerEmail": "suresh.patel42@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab80"
+    },
+    "size": "37.37 Bigah",
+    "ownerName": "Priya Jain",
+    "ownerEmail": "priya.jain6866@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab81"
+    },
+    "size": "37.88 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan2896@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab82"
+    },
+    "size": "40.09 Bigah",
+    "ownerName": "Rahul Verma",
+    "ownerEmail": "rahul.verma4619@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab83"
+    },
+    "size": "16.99 Bigah",
+    "ownerName": "Kiran Saxena",
+    "ownerEmail": "kiran.saxena714@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab84"
+    },
+    "size": "22.39 Bigah",
+    "ownerName": "Lakshmi Chopra",
+    "ownerEmail": "lakshmi.chopra4338@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab85"
+    },
+    "size": "31.16 Bigah",
+    "ownerName": "Arjun Verma",
+    "ownerEmail": "arjun.verma8500@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab86"
+    },
+    "size": "22.52 Bigah",
+    "ownerName": "Pooja Jain",
+    "ownerEmail": "pooja.jain6216@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab87"
+    },
+    "size": "42.8 Bigah",
+    "ownerName": "Raj Chopra",
+    "ownerEmail": "raj.chopra7126@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab88"
+    },
+    "size": "27.24 Bigah",
+    "ownerName": "Ritu Saxena",
+    "ownerEmail": "ritu.saxena6066@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab89"
+    },
+    "size": "1.77 Bigah",
+    "ownerName": "Kiran Joshi",
+    "ownerEmail": "kiran.joshi4894@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8a"
+    },
+    "size": "49.22 Bigah",
+    "ownerName": "Ritu Saxena",
+    "ownerEmail": "ritu.saxena8555@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8b"
+    },
+    "size": "13.54 Bigah",
+    "ownerName": "Raj Jain",
+    "ownerEmail": "raj.jain7826@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8c"
+    },
+    "size": "38.26 Bigah",
+    "ownerName": "Vivek Nair",
+    "ownerEmail": "vivek.nair8811@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8d"
+    },
+    "size": "23.31 Bigah",
+    "ownerName": "Priya Jain",
+    "ownerEmail": "priya.jain329@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8e"
+    },
+    "size": "18.69 Bigah",
+    "ownerName": "Vikas Nair",
+    "ownerEmail": "vikas.nair1893@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab8f"
+    },
+    "size": "17.15 Bigah",
+    "ownerName": "Mohit Verma",
+    "ownerEmail": "mohit.verma5456@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab90"
+    },
+    "size": "34.07 Bigah",
+    "ownerName": "Deepa Sharma",
+    "ownerEmail": "deepa.sharma4516@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab91"
+    },
+    "size": "42.81 Bigah",
+    "ownerName": "Asha Chopra",
+    "ownerEmail": "asha.chopra3929@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab92"
+    },
+    "size": "15.23 Bigah",
+    "ownerName": "Meena Joshi",
+    "ownerEmail": "meena.joshi7076@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab93"
+    },
+    "size": "43.39 Bigah",
+    "ownerName": "Priya Malhotra",
+    "ownerEmail": "priya.malhotra1158@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab94"
+    },
+    "size": "11.82 Bigah",
+    "ownerName": "Meena Mehta",
+    "ownerEmail": "meena.mehta8555@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab95"
+    },
+    "size": "7.34 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur3964@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab96"
+    },
+    "size": "39.56 Bigah",
+    "ownerName": "Vikas Khan",
+    "ownerEmail": "vikas.khan7263@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab97"
+    },
+    "size": "43.09 Bigah",
+    "ownerName": "Kamal Jain",
+    "ownerEmail": "kamal.jain2494@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab98"
+    },
+    "size": "10.3 Bigah",
+    "ownerName": "Kiran Gupta",
+    "ownerEmail": "kiran.gupta2659@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab99"
+    },
+    "size": "35.18 Bigah",
+    "ownerName": "Arjun Saxena",
+    "ownerEmail": "arjun.saxena1383@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9a"
+    },
+    "size": "47.54 Bigah",
+    "ownerName": "Ramesh Saxena",
+    "ownerEmail": "ramesh.saxena5659@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9b"
+    },
+    "size": "20 Bigah",
+    "ownerName": "Amit Kumar",
+    "ownerEmail": "amit.kumar5246@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9c"
+    },
+    "size": "42.84 Bigah",
+    "ownerName": "Asha Joshi",
+    "ownerEmail": "asha.joshi98@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9d"
+    },
+    "size": "49.11 Bigah",
+    "ownerName": "Manish Gupta",
+    "ownerEmail": "manish.gupta9522@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9e"
+    },
+    "size": "40.46 Bigah",
+    "ownerName": "Anita Jain",
+    "ownerEmail": "anita.jain9729@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ab9f"
+    },
+    "size": "38.3 Bigah",
+    "ownerName": "Arjun Saxena",
+    "ownerEmail": "arjun.saxena8667@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba0"
+    },
+    "size": "40.36 Bigah",
+    "ownerName": "Lakshmi Kumar",
+    "ownerEmail": "lakshmi.kumar9604@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba1"
+    },
+    "size": "31.53 Bigah",
+    "ownerName": "Manish Reddy",
+    "ownerEmail": "manish.reddy9684@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba2"
+    },
+    "size": "20.62 Bigah",
+    "ownerName": "Anita Saxena",
+    "ownerEmail": "anita.saxena300@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba3"
+    },
+    "size": "1.2 Bigah",
+    "ownerName": "Rahul Malhotra",
+    "ownerEmail": "rahul.malhotra3433@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba4"
+    },
+    "size": "18.25 Bigah",
+    "ownerName": "Rahul Sharma",
+    "ownerEmail": "rahul.sharma8818@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba5"
+    },
+    "size": "30.19 Bigah",
+    "ownerName": "Meena Sharma",
+    "ownerEmail": "meena.sharma2396@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba6"
+    },
+    "size": "45.99 Bigah",
+    "ownerName": "Karan Verma",
+    "ownerEmail": "karan.verma9217@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba7"
+    },
+    "size": "30.24 Bigah",
+    "ownerName": "Pooja Mehta",
+    "ownerEmail": "pooja.mehta2974@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba8"
+    },
+    "size": "15.17 Bigah",
+    "ownerName": "Anita Khan",
+    "ownerEmail": "anita.khan2401@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aba9"
+    },
+    "size": "24.92 Bigah",
+    "ownerName": "Lakshmi Bose",
+    "ownerEmail": "lakshmi.bose5962@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abaa"
+    },
+    "size": "1.19 Bigah",
+    "ownerName": "Rahul Saxena",
+    "ownerEmail": "rahul.saxena1661@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abab"
+    },
+    "size": "3.04 Bigah",
+    "ownerName": "Neha Bose",
+    "ownerEmail": "neha.bose1925@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abac"
+    },
+    "size": "31.23 Bigah",
+    "ownerName": "Ramesh Nair",
+    "ownerEmail": "ramesh.nair3217@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abad"
+    },
+    "size": "46.84 Bigah",
+    "ownerName": "Mohit Mehta",
+    "ownerEmail": "mohit.mehta2185@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abae"
+    },
+    "size": "9.37 Bigah",
+    "ownerName": "Anita Sharma",
+    "ownerEmail": "anita.sharma8249@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abaf"
+    },
+    "size": "32.69 Bigah",
+    "ownerName": "Vivek Kumar",
+    "ownerEmail": "vivek.kumar7841@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb0"
+    },
+    "size": "16.15 Bigah",
+    "ownerName": "Sunita Iyer",
+    "ownerEmail": "sunita.iyer8632@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb1"
+    },
+    "size": "47.45 Bigah",
+    "ownerName": "Meena Sharma",
+    "ownerEmail": "meena.sharma8231@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb2"
+    },
+    "size": "0.83 Bigah",
+    "ownerName": "Karan Bhatt",
+    "ownerEmail": "karan.bhatt9187@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb3"
+    },
+    "size": "3.01 Bigah",
+    "ownerName": "Arjun Sharma",
+    "ownerEmail": "arjun.sharma9160@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb4"
+    },
+    "size": "33.54 Bigah",
+    "ownerName": "Kiran Mehta",
+    "ownerEmail": "kiran.mehta73@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb5"
+    },
+    "size": "4.24 Bigah",
+    "ownerName": "Meena Saxena",
+    "ownerEmail": "meena.saxena5537@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb6"
+    },
+    "size": "18.93 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar1019@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb7"
+    },
+    "size": "8.14 Bigah",
+    "ownerName": "Pooja Khan",
+    "ownerEmail": "pooja.khan6204@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb8"
+    },
+    "size": "41.86 Bigah",
+    "ownerName": "Lakshmi Verma",
+    "ownerEmail": "lakshmi.verma1111@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abb9"
+    },
+    "size": "48.54 Bigah",
+    "ownerName": "Priya Patel",
+    "ownerEmail": "priya.patel3247@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abba"
+    },
+    "size": "31.71 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt877@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abbb"
+    },
+    "size": "39.69 Bigah",
+    "ownerName": "Kiran Jain",
+    "ownerEmail": "kiran.jain4057@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abbc"
+    },
+    "size": "39.25 Bigah",
+    "ownerName": "Asha Thakur",
+    "ownerEmail": "asha.thakur4433@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abbd"
+    },
+    "size": "35.15 Bigah",
+    "ownerName": "Rahul Iyer",
+    "ownerEmail": "rahul.iyer8055@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abbe"
+    },
+    "size": "14.8 Bigah",
+    "ownerName": "Manish Bhatt",
+    "ownerEmail": "manish.bhatt4198@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abbf"
+    },
+    "size": "28.51 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur2225@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc0"
+    },
+    "size": "38.56 Bigah",
+    "ownerName": "Meena Kumar",
+    "ownerEmail": "meena.kumar8848@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc1"
+    },
+    "size": "21.82 Bigah",
+    "ownerName": "Sanjay Bhatt",
+    "ownerEmail": "sanjay.bhatt4568@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc2"
+    },
+    "size": "12.76 Bigah",
+    "ownerName": "Karan Iyer",
+    "ownerEmail": "karan.iyer2139@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc3"
+    },
+    "size": "24.45 Bigah",
+    "ownerName": "Anita Singh",
+    "ownerEmail": "anita.singh1690@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc4"
+    },
+    "size": "28.63 Bigah",
+    "ownerName": "Karan Singh",
+    "ownerEmail": "karan.singh9227@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc5"
+    },
+    "size": "43.62 Bigah",
+    "ownerName": "Ramesh Patel",
+    "ownerEmail": "ramesh.patel2181@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc6"
+    },
+    "size": "40.19 Bigah",
+    "ownerName": "Ritu Verma",
+    "ownerEmail": "ritu.verma2977@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc7"
+    },
+    "size": "48.11 Bigah",
+    "ownerName": "Rohit Nair",
+    "ownerEmail": "rohit.nair5366@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc8"
+    },
+    "size": "27.77 Bigah",
+    "ownerName": "Karan Mehta",
+    "ownerEmail": "karan.mehta8670@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abc9"
+    },
+    "size": "49.78 Bigah",
+    "ownerName": "Vikas Mehta",
+    "ownerEmail": "vikas.mehta7623@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abca"
+    },
+    "size": "18.49 Bigah",
+    "ownerName": "Lakshmi Thakur",
+    "ownerEmail": "lakshmi.thakur688@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abcb"
+    },
+    "size": "34.37 Bigah",
+    "ownerName": "Asha Nair",
+    "ownerEmail": "asha.nair3683@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abcc"
+    },
+    "size": "35.81 Bigah",
+    "ownerName": "Anita Thakur",
+    "ownerEmail": "anita.thakur2296@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abcd"
+    },
+    "size": "4.31 Bigah",
+    "ownerName": "Kamal Saxena",
+    "ownerEmail": "kamal.saxena8459@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abce"
+    },
+    "size": "35.84 Bigah",
+    "ownerName": "Priya Saxena",
+    "ownerEmail": "priya.saxena6485@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abcf"
+    },
+    "size": "38.67 Bigah",
+    "ownerName": "Kamal Joshi",
+    "ownerEmail": "kamal.joshi9100@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd0"
+    },
+    "size": "19.26 Bigah",
+    "ownerName": "Rahul Jain",
+    "ownerEmail": "rahul.jain1429@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd1"
+    },
+    "size": "3.19 Bigah",
+    "ownerName": "Suresh Iyer",
+    "ownerEmail": "suresh.iyer5114@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd2"
+    },
+    "size": "22.22 Bigah",
+    "ownerName": "Anita Bhatt",
+    "ownerEmail": "anita.bhatt5476@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd3"
+    },
+    "size": "32.17 Bigah",
+    "ownerName": "Priya Malhotra",
+    "ownerEmail": "priya.malhotra2795@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd4"
+    },
+    "size": "6.41 Bigah",
+    "ownerName": "Neha Sharma",
+    "ownerEmail": "neha.sharma5719@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd5"
+    },
+    "size": "39.12 Bigah",
+    "ownerName": "Karan Kumar",
+    "ownerEmail": "karan.kumar6206@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd6"
+    },
+    "size": "24.47 Bigah",
+    "ownerName": "Amit Kumar",
+    "ownerEmail": "amit.kumar1607@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd7"
+    },
+    "size": "21.77 Bigah",
+    "ownerName": "Rahul Bhatt",
+    "ownerEmail": "rahul.bhatt1856@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd8"
+    },
+    "size": "43.37 Bigah",
+    "ownerName": "Kamal Mehta",
+    "ownerEmail": "kamal.mehta669@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abd9"
+    },
+    "size": "37.68 Bigah",
+    "ownerName": "Priya Iyer",
+    "ownerEmail": "priya.iyer2173@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abda"
+    },
+    "size": "17.26 Bigah",
+    "ownerName": "Asha Jain",
+    "ownerEmail": "asha.jain9813@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abdb"
+    },
+    "size": "9.64 Bigah",
+    "ownerName": "Sanjay Singh",
+    "ownerEmail": "sanjay.singh1911@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abdc"
+    },
+    "size": "46.56 Bigah",
+    "ownerName": "Kamal Nair",
+    "ownerEmail": "kamal.nair3330@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abdd"
+    },
+    "size": "18.97 Bigah",
+    "ownerName": "Sunita Chopra",
+    "ownerEmail": "sunita.chopra528@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abde"
+    },
+    "size": "11.52 Bigah",
+    "ownerName": "Sanjay Kumar",
+    "ownerEmail": "sanjay.kumar1444@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abdf"
+    },
+    "size": "46.8 Bigah",
+    "ownerName": "Lakshmi Thakur",
+    "ownerEmail": "lakshmi.thakur2911@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe0"
+    },
+    "size": "8.47 Bigah",
+    "ownerName": "Anita Sharma",
+    "ownerEmail": "anita.sharma8198@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe1"
+    },
+    "size": "39.99 Bigah",
+    "ownerName": "Vivek Gupta",
+    "ownerEmail": "vivek.gupta1661@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe2"
+    },
+    "size": "17.52 Bigah",
+    "ownerName": "Vivek Malhotra",
+    "ownerEmail": "vivek.malhotra6757@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe3"
+    },
+    "size": "48.92 Bigah",
+    "ownerName": "Arjun Reddy",
+    "ownerEmail": "arjun.reddy5337@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe4"
+    },
+    "size": "14.45 Bigah",
+    "ownerName": "Mohit Malhotra",
+    "ownerEmail": "mohit.malhotra8135@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe5"
+    },
+    "size": "20.06 Bigah",
+    "ownerName": "Karan Jain",
+    "ownerEmail": "karan.jain9022@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe6"
+    },
+    "size": "23.85 Bigah",
+    "ownerName": "Vivek Mehta",
+    "ownerEmail": "vivek.mehta8986@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe7"
+    },
+    "size": "19.61 Bigah",
+    "ownerName": "Mohit Saxena",
+    "ownerEmail": "mohit.saxena3326@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe8"
+    },
+    "size": "31.87 Bigah",
+    "ownerName": "Mohit Bose",
+    "ownerEmail": "mohit.bose937@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abe9"
+    },
+    "size": "26.07 Bigah",
+    "ownerName": "Manish Bhatt",
+    "ownerEmail": "manish.bhatt5579@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abea"
+    },
+    "size": "46.54 Bigah",
+    "ownerName": "Sunita Singh",
+    "ownerEmail": "sunita.singh6802@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abeb"
+    },
+    "size": "16.27 Bigah",
+    "ownerName": "Vikas Singh",
+    "ownerEmail": "vikas.singh839@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abec"
+    },
+    "size": "13.68 Bigah",
+    "ownerName": "Vikas Verma",
+    "ownerEmail": "vikas.verma3606@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abed"
+    },
+    "size": "34.74 Bigah",
+    "ownerName": "Amit Sharma",
+    "ownerEmail": "amit.sharma7285@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abee"
+    },
+    "size": "42.29 Bigah",
+    "ownerName": "Rohit Sharma",
+    "ownerEmail": "rohit.sharma1950@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abef"
+    },
+    "size": "44.43 Bigah",
+    "ownerName": "Suresh Joshi",
+    "ownerEmail": "suresh.joshi3769@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf0"
+    },
+    "size": "13.08 Bigah",
+    "ownerName": "Rahul Malhotra",
+    "ownerEmail": "rahul.malhotra4224@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf1"
+    },
+    "size": "23.87 Bigah",
+    "ownerName": "Vikas Jain",
+    "ownerEmail": "vikas.jain7592@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf2"
+    },
+    "size": "5.27 Bigah",
+    "ownerName": "Kiran Bose",
+    "ownerEmail": "kiran.bose8342@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf3"
+    },
+    "size": "31.25 Bigah",
+    "ownerName": "Amit Saxena",
+    "ownerEmail": "amit.saxena4037@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf4"
+    },
+    "size": "14.65 Bigah",
+    "ownerName": "Manish Das",
+    "ownerEmail": "manish.das4899@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf5"
+    },
+    "size": "11.91 Bigah",
+    "ownerName": "Karan Reddy",
+    "ownerEmail": "karan.reddy129@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf6"
+    },
+    "size": "45.97 Bigah",
+    "ownerName": "Priya Khan",
+    "ownerEmail": "priya.khan6918@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf7"
+    },
+    "size": "12.19 Bigah",
+    "ownerName": "Suresh Verma",
+    "ownerEmail": "suresh.verma1543@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf8"
+    },
+    "size": "6.69 Bigah",
+    "ownerName": "Sunita Sharma",
+    "ownerEmail": "sunita.sharma6155@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abf9"
+    },
+    "size": "27.4 Bigah",
+    "ownerName": "Deepa Bose",
+    "ownerEmail": "deepa.bose9550@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abfa"
+    },
+    "size": "10.46 Bigah",
+    "ownerName": "Asha Jain",
+    "ownerEmail": "asha.jain6179@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abfb"
+    },
+    "size": "25.57 Bigah",
+    "ownerName": "Meena Thakur",
+    "ownerEmail": "meena.thakur9569@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abfc"
+    },
+    "size": "21.66 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair5485@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abfd"
+    },
+    "size": "40.58 Bigah",
+    "ownerName": "Rohit Patel",
+    "ownerEmail": "rohit.patel4892@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abfe"
+    },
+    "size": "36.98 Bigah",
+    "ownerName": "Deepa Thakur",
+    "ownerEmail": "deepa.thakur214@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463abff"
+    },
+    "size": "45.71 Bigah",
+    "ownerName": "Sunita Reddy",
+    "ownerEmail": "sunita.reddy94@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac00"
+    },
+    "size": "20.45 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel1278@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac01"
+    },
+    "size": "3.55 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan921@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac02"
+    },
+    "size": "13.21 Bigah",
+    "ownerName": "Manish Bhatt",
+    "ownerEmail": "manish.bhatt7471@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac03"
+    },
+    "size": "38.16 Bigah",
+    "ownerName": "Anita Saxena",
+    "ownerEmail": "anita.saxena6566@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac04"
+    },
+    "size": "28.37 Bigah",
+    "ownerName": "Rahul Reddy",
+    "ownerEmail": "rahul.reddy5961@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac05"
+    },
+    "size": "20.54 Bigah",
+    "ownerName": "Kiran Khan",
+    "ownerEmail": "kiran.khan9964@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac06"
+    },
+    "size": "45.21 Bigah",
+    "ownerName": "Manish Mehta",
+    "ownerEmail": "manish.mehta7118@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac07"
+    },
+    "size": "12.7 Bigah",
+    "ownerName": "Meena Bhatt",
+    "ownerEmail": "meena.bhatt7195@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac08"
+    },
+    "size": "21.04 Bigah",
+    "ownerName": "Ramesh Chopra",
+    "ownerEmail": "ramesh.chopra1270@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac09"
+    },
+    "size": "18.31 Bigah",
+    "ownerName": "Vikas Patel",
+    "ownerEmail": "vikas.patel6789@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0a"
+    },
+    "size": "24.63 Bigah",
+    "ownerName": "Asha Kumar",
+    "ownerEmail": "asha.kumar2707@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0b"
+    },
+    "size": "47.81 Bigah",
+    "ownerName": "Kamal Kumar",
+    "ownerEmail": "kamal.kumar4581@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0c"
+    },
+    "size": "47.82 Bigah",
+    "ownerName": "Arjun Malhotra",
+    "ownerEmail": "arjun.malhotra8247@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0d"
+    },
+    "size": "24.98 Bigah",
+    "ownerName": "Amit Iyer",
+    "ownerEmail": "amit.iyer8614@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0e"
+    },
+    "size": "12.15 Bigah",
+    "ownerName": "Deepa Bose",
+    "ownerEmail": "deepa.bose7850@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac0f"
+    },
+    "size": "6.71 Bigah",
+    "ownerName": "Anita Jain",
+    "ownerEmail": "anita.jain3867@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac10"
+    },
+    "size": "37.61 Bigah",
+    "ownerName": "Manish Jain",
+    "ownerEmail": "manish.jain5292@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac11"
+    },
+    "size": "41.5 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair2744@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac12"
+    },
+    "size": "33.96 Bigah",
+    "ownerName": "Deepa Chopra",
+    "ownerEmail": "deepa.chopra721@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac13"
+    },
+    "size": "34.42 Bigah",
+    "ownerName": "Mohit Kumar",
+    "ownerEmail": "mohit.kumar7953@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac14"
+    },
+    "size": "18.98 Bigah",
+    "ownerName": "Rahul Mehta",
+    "ownerEmail": "rahul.mehta4337@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac15"
+    },
+    "size": "6.74 Bigah",
+    "ownerName": "Neha Sharma",
+    "ownerEmail": "neha.sharma365@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac16"
+    },
+    "size": "26.9 Bigah",
+    "ownerName": "Vikas Singh",
+    "ownerEmail": "vikas.singh9455@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac17"
+    },
+    "size": "44.84 Bigah",
+    "ownerName": "Deepa Joshi",
+    "ownerEmail": "deepa.joshi8950@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac18"
+    },
+    "size": "43.24 Bigah",
+    "ownerName": "Kamal Mehta",
+    "ownerEmail": "kamal.mehta3905@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac19"
+    },
+    "size": "1.12 Bigah",
+    "ownerName": "Vivek Das",
+    "ownerEmail": "vivek.das9002@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1a"
+    },
+    "size": "46.38 Bigah",
+    "ownerName": "Priya Chopra",
+    "ownerEmail": "priya.chopra4557@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1b"
+    },
+    "size": "25.55 Bigah",
+    "ownerName": "Deepa Saxena",
+    "ownerEmail": "deepa.saxena8407@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1c"
+    },
+    "size": "24.61 Bigah",
+    "ownerName": "Manish Iyer",
+    "ownerEmail": "manish.iyer9965@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1d"
+    },
+    "size": "45.42 Bigah",
+    "ownerName": "Ramesh Gupta",
+    "ownerEmail": "ramesh.gupta6820@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1e"
+    },
+    "size": "48.3 Bigah",
+    "ownerName": "Raj Kumar",
+    "ownerEmail": "raj.kumar682@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac1f"
+    },
+    "size": "12.79 Bigah",
+    "ownerName": "Karan Singh",
+    "ownerEmail": "karan.singh4591@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac20"
+    },
+    "size": "5.52 Bigah",
+    "ownerName": "Mohit Joshi",
+    "ownerEmail": "mohit.joshi1831@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac21"
+    },
+    "size": "2.55 Bigah",
+    "ownerName": "Sanjay Bose",
+    "ownerEmail": "sanjay.bose8955@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac22"
+    },
+    "size": "15.76 Bigah",
+    "ownerName": "Kiran Reddy",
+    "ownerEmail": "kiran.reddy9304@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac23"
+    },
+    "size": "31.19 Bigah",
+    "ownerName": "Deepa Kumar",
+    "ownerEmail": "deepa.kumar767@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac24"
+    },
+    "size": "23.34 Bigah",
+    "ownerName": "Pooja Thakur",
+    "ownerEmail": "pooja.thakur4884@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac25"
+    },
+    "size": "8.44 Bigah",
+    "ownerName": "Deepa Mehta",
+    "ownerEmail": "deepa.mehta8315@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac26"
+    },
+    "size": "12.44 Bigah",
+    "ownerName": "Suresh Patel",
+    "ownerEmail": "suresh.patel3229@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac27"
+    },
+    "size": "11.04 Bigah",
+    "ownerName": "Anita Chopra",
+    "ownerEmail": "anita.chopra2258@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac28"
+    },
+    "size": "26.77 Bigah",
+    "ownerName": "Ramesh Joshi",
+    "ownerEmail": "ramesh.joshi8765@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac29"
+    },
+    "size": "17.39 Bigah",
+    "ownerName": "Rohit Thakur",
+    "ownerEmail": "rohit.thakur8025@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2a"
+    },
+    "size": "10.86 Bigah",
+    "ownerName": "Deepa Iyer",
+    "ownerEmail": "deepa.iyer4100@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2b"
+    },
+    "size": "27.74 Bigah",
+    "ownerName": "Suresh Verma",
+    "ownerEmail": "suresh.verma5269@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2c"
+    },
+    "size": "7.36 Bigah",
+    "ownerName": "Karan Saxena",
+    "ownerEmail": "karan.saxena6164@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2d"
+    },
+    "size": "4.6 Bigah",
+    "ownerName": "Suresh Saxena",
+    "ownerEmail": "suresh.saxena1123@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2e"
+    },
+    "size": "22.84 Bigah",
+    "ownerName": "Pooja Patel",
+    "ownerEmail": "pooja.patel7052@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac2f"
+    },
+    "size": "26.58 Bigah",
+    "ownerName": "Raj Verma",
+    "ownerEmail": "raj.verma2548@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac30"
+    },
+    "size": "20.64 Bigah",
+    "ownerName": "Anita Kumar",
+    "ownerEmail": "anita.kumar3677@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac31"
+    },
+    "size": "28.44 Bigah",
+    "ownerName": "Raj Das",
+    "ownerEmail": "raj.das7048@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac32"
+    },
+    "size": "38.63 Bigah",
+    "ownerName": "Mohit Bose",
+    "ownerEmail": "mohit.bose3008@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac33"
+    },
+    "size": "20.51 Bigah",
+    "ownerName": "Manish Singh",
+    "ownerEmail": "manish.singh8978@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac34"
+    },
+    "size": "47.79 Bigah",
+    "ownerName": "Vivek Singh",
+    "ownerEmail": "vivek.singh4534@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac35"
+    },
+    "size": "10.11 Bigah",
+    "ownerName": "Rahul Jain",
+    "ownerEmail": "rahul.jain3108@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac36"
+    },
+    "size": "43.08 Bigah",
+    "ownerName": "Sanjay Das",
+    "ownerEmail": "sanjay.das3973@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac37"
+    },
+    "size": "38.2 Bigah",
+    "ownerName": "Amit Reddy",
+    "ownerEmail": "amit.reddy5452@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac38"
+    },
+    "size": "39.14 Bigah",
+    "ownerName": "Arjun Saxena",
+    "ownerEmail": "arjun.saxena9003@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac39"
+    },
+    "size": "43.56 Bigah",
+    "ownerName": "Sanjay Iyer",
+    "ownerEmail": "sanjay.iyer1272@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3a"
+    },
+    "size": "45.96 Bigah",
+    "ownerName": "Rohit Kumar",
+    "ownerEmail": "rohit.kumar9780@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3b"
+    },
+    "size": "3.46 Bigah",
+    "ownerName": "Amit Joshi",
+    "ownerEmail": "amit.joshi8776@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3c"
+    },
+    "size": "5.09 Bigah",
+    "ownerName": "Ramesh Gupta",
+    "ownerEmail": "ramesh.gupta2926@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3d"
+    },
+    "size": "48.66 Bigah",
+    "ownerName": "Karan Reddy",
+    "ownerEmail": "karan.reddy8601@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3e"
+    },
+    "size": "5.85 Bigah",
+    "ownerName": "Suresh Joshi",
+    "ownerEmail": "suresh.joshi5951@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac3f"
+    },
+    "size": "49.87 Bigah",
+    "ownerName": "Kamal Patel",
+    "ownerEmail": "kamal.patel8382@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac40"
+    },
+    "size": "39.3 Bigah",
+    "ownerName": "Raj Chopra",
+    "ownerEmail": "raj.chopra2620@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac41"
+    },
+    "size": "25.89 Bigah",
+    "ownerName": "Rohit Chopra",
+    "ownerEmail": "rohit.chopra1050@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac42"
+    },
+    "size": "41.56 Bigah",
+    "ownerName": "Rohit Das",
+    "ownerEmail": "rohit.das6696@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac43"
+    },
+    "size": "3.47 Bigah",
+    "ownerName": "Meena Das",
+    "ownerEmail": "meena.das1676@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac44"
+    },
+    "size": "44.96 Bigah",
+    "ownerName": "Ramesh Iyer",
+    "ownerEmail": "ramesh.iyer2686@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac45"
+    },
+    "size": "9.46 Bigah",
+    "ownerName": "Anita Malhotra",
+    "ownerEmail": "anita.malhotra1757@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac46"
+    },
+    "size": "19.63 Bigah",
+    "ownerName": "Kiran Das",
+    "ownerEmail": "kiran.das9997@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac47"
+    },
+    "size": "18.96 Bigah",
+    "ownerName": "Sunita Thakur",
+    "ownerEmail": "sunita.thakur8312@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac48"
+    },
+    "size": "5.7 Bigah",
+    "ownerName": "Ramesh Khan",
+    "ownerEmail": "ramesh.khan1129@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac49"
+    },
+    "size": "24.03 Bigah",
+    "ownerName": "Asha Verma",
+    "ownerEmail": "asha.verma8227@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4a"
+    },
+    "size": "49.99 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt6010@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4b"
+    },
+    "size": "1.51 Bigah",
+    "ownerName": "Amit Chopra",
+    "ownerEmail": "amit.chopra2530@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4c"
+    },
+    "size": "11.34 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel7696@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4d"
+    },
+    "size": "19.89 Bigah",
+    "ownerName": "Anita Joshi",
+    "ownerEmail": "anita.joshi4418@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4e"
+    },
+    "size": "46.8 Bigah",
+    "ownerName": "Suresh Gupta",
+    "ownerEmail": "suresh.gupta2913@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac4f"
+    },
+    "size": "2.81 Bigah",
+    "ownerName": "Sanjay Malhotra",
+    "ownerEmail": "sanjay.malhotra2812@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac50"
+    },
+    "size": "36.78 Bigah",
+    "ownerName": "Ritu Joshi",
+    "ownerEmail": "ritu.joshi6765@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac51"
+    },
+    "size": "6.26 Bigah",
+    "ownerName": "Neha Malhotra",
+    "ownerEmail": "neha.malhotra232@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac52"
+    },
+    "size": "21.22 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur7633@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac53"
+    },
+    "size": "36.82 Bigah",
+    "ownerName": "Rohit Thakur",
+    "ownerEmail": "rohit.thakur6015@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac54"
+    },
+    "size": "4.25 Bigah",
+    "ownerName": "Rohit Gupta",
+    "ownerEmail": "rohit.gupta7893@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac55"
+    },
+    "size": "30.35 Bigah",
+    "ownerName": "Kiran Singh",
+    "ownerEmail": "kiran.singh3067@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac56"
+    },
+    "size": "25.29 Bigah",
+    "ownerName": "Rahul Sharma",
+    "ownerEmail": "rahul.sharma4810@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac57"
+    },
+    "size": "0.97 Bigah",
+    "ownerName": "Rohit Verma",
+    "ownerEmail": "rohit.verma2875@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac58"
+    },
+    "size": "22.48 Bigah",
+    "ownerName": "Meena Nair",
+    "ownerEmail": "meena.nair4670@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac59"
+    },
+    "size": "1.18 Bigah",
+    "ownerName": "Sanjay Gupta",
+    "ownerEmail": "sanjay.gupta3300@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5a"
+    },
+    "size": "18.97 Bigah",
+    "ownerName": "Ramesh Mehta",
+    "ownerEmail": "ramesh.mehta7376@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5b"
+    },
+    "size": "46.32 Bigah",
+    "ownerName": "Meena Jain",
+    "ownerEmail": "meena.jain1721@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5c"
+    },
+    "size": "32.28 Bigah",
+    "ownerName": "Meena Kumar",
+    "ownerEmail": "meena.kumar3491@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5d"
+    },
+    "size": "35.89 Bigah",
+    "ownerName": "Mohit Mehta",
+    "ownerEmail": "mohit.mehta1889@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5e"
+    },
+    "size": "14.75 Bigah",
+    "ownerName": "Lakshmi Sharma",
+    "ownerEmail": "lakshmi.sharma2157@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac5f"
+    },
+    "size": "14.05 Bigah",
+    "ownerName": "Amit Bose",
+    "ownerEmail": "amit.bose2377@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac60"
+    },
+    "size": "1.79 Bigah",
+    "ownerName": "Arjun Khan",
+    "ownerEmail": "arjun.khan5922@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac61"
+    },
+    "size": "26.42 Bigah",
+    "ownerName": "Neha Iyer",
+    "ownerEmail": "neha.iyer5241@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac62"
+    },
+    "size": "20.81 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur9504@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac63"
+    },
+    "size": "1.53 Bigah",
+    "ownerName": "Manish Chopra",
+    "ownerEmail": "manish.chopra9684@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac64"
+    },
+    "size": "20.91 Bigah",
+    "ownerName": "Meena Saxena",
+    "ownerEmail": "meena.saxena883@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac65"
+    },
+    "size": "12.09 Bigah",
+    "ownerName": "Deepa Joshi",
+    "ownerEmail": "deepa.joshi176@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac66"
+    },
+    "size": "38.22 Bigah",
+    "ownerName": "Rohit Mehta",
+    "ownerEmail": "rohit.mehta3656@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac67"
+    },
+    "size": "17.29 Bigah",
+    "ownerName": "Anita Bhatt",
+    "ownerEmail": "anita.bhatt4578@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac68"
+    },
+    "size": "3.63 Bigah",
+    "ownerName": "Sanjay Joshi",
+    "ownerEmail": "sanjay.joshi9763@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac69"
+    },
+    "size": "32.05 Bigah",
+    "ownerName": "Lakshmi Reddy",
+    "ownerEmail": "lakshmi.reddy7517@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6a"
+    },
+    "size": "29.53 Bigah",
+    "ownerName": "Rohit Saxena",
+    "ownerEmail": "rohit.saxena638@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6b"
+    },
+    "size": "10.99 Bigah",
+    "ownerName": "Mohit Malhotra",
+    "ownerEmail": "mohit.malhotra8783@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6c"
+    },
+    "size": "13.74 Bigah",
+    "ownerName": "Kiran Sharma",
+    "ownerEmail": "kiran.sharma8356@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6d"
+    },
+    "size": "40.14 Bigah",
+    "ownerName": "Ritu Malhotra",
+    "ownerEmail": "ritu.malhotra1038@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6e"
+    },
+    "size": "41.57 Bigah",
+    "ownerName": "Ritu Thakur",
+    "ownerEmail": "ritu.thakur2038@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac6f"
+    },
+    "size": "2.24 Bigah",
+    "ownerName": "Sunita Bhatt",
+    "ownerEmail": "sunita.bhatt4278@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac70"
+    },
+    "size": "2.78 Bigah",
+    "ownerName": "Manish Patel",
+    "ownerEmail": "manish.patel6821@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac71"
+    },
+    "size": "5.12 Bigah",
+    "ownerName": "Deepa Patel",
+    "ownerEmail": "deepa.patel1733@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac72"
+    },
+    "size": "25.91 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel3044@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac73"
+    },
+    "size": "26.31 Bigah",
+    "ownerName": "Ritu Kumar",
+    "ownerEmail": "ritu.kumar6368@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac74"
+    },
+    "size": "35.09 Bigah",
+    "ownerName": "Neha Kumar",
+    "ownerEmail": "neha.kumar8536@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac75"
+    },
+    "size": "29.66 Bigah",
+    "ownerName": "Lakshmi Jain",
+    "ownerEmail": "lakshmi.jain1078@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac76"
+    },
+    "size": "47.1 Bigah",
+    "ownerName": "Manish Joshi",
+    "ownerEmail": "manish.joshi2459@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac77"
+    },
+    "size": "26.37 Bigah",
+    "ownerName": "Arjun Jain",
+    "ownerEmail": "arjun.jain7543@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac78"
+    },
+    "size": "7.81 Bigah",
+    "ownerName": "Priya Kumar",
+    "ownerEmail": "priya.kumar1288@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac79"
+    },
+    "size": "13.05 Bigah",
+    "ownerName": "Mohit Kumar",
+    "ownerEmail": "mohit.kumar4114@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7a"
+    },
+    "size": "33.58 Bigah",
+    "ownerName": "Priya Mehta",
+    "ownerEmail": "priya.mehta6675@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7b"
+    },
+    "size": "39.85 Bigah",
+    "ownerName": "Sunita Patel",
+    "ownerEmail": "sunita.patel4083@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7c"
+    },
+    "size": "29.18 Bigah",
+    "ownerName": "Raj Das",
+    "ownerEmail": "raj.das6369@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7d"
+    },
+    "size": "47.01 Bigah",
+    "ownerName": "Amit Patel",
+    "ownerEmail": "amit.patel7487@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7e"
+    },
+    "size": "28.5 Bigah",
+    "ownerName": "Manish Verma",
+    "ownerEmail": "manish.verma4699@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac7f"
+    },
+    "size": "47.17 Bigah",
+    "ownerName": "Raj Jain",
+    "ownerEmail": "raj.jain9423@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac80"
+    },
+    "size": "49.51 Bigah",
+    "ownerName": "Meena Saxena",
+    "ownerEmail": "meena.saxena9682@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac81"
+    },
+    "size": "3.34 Bigah",
+    "ownerName": "Lakshmi Verma",
+    "ownerEmail": "lakshmi.verma5286@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac82"
+    },
+    "size": "9.72 Bigah",
+    "ownerName": "Meena Kumar",
+    "ownerEmail": "meena.kumar4914@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac83"
+    },
+    "size": "47.76 Bigah",
+    "ownerName": "Asha Reddy",
+    "ownerEmail": "asha.reddy3022@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac84"
+    },
+    "size": "37.06 Bigah",
+    "ownerName": "Suresh Reddy",
+    "ownerEmail": "suresh.reddy6444@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac85"
+    },
+    "size": "34.44 Bigah",
+    "ownerName": "Mohit Saxena",
+    "ownerEmail": "mohit.saxena4070@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac86"
+    },
+    "size": "12.86 Bigah",
+    "ownerName": "Neha Khan",
+    "ownerEmail": "neha.khan629@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac87"
+    },
+    "size": "0.59 Bigah",
+    "ownerName": "Deepa Das",
+    "ownerEmail": "deepa.das9476@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac88"
+    },
+    "size": "26.56 Bigah",
+    "ownerName": "Kiran Thakur",
+    "ownerEmail": "kiran.thakur6044@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac89"
+    },
+    "size": "27.68 Bigah",
+    "ownerName": "Pooja Saxena",
+    "ownerEmail": "pooja.saxena3301@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8a"
+    },
+    "size": "49.75 Bigah",
+    "ownerName": "Asha Joshi",
+    "ownerEmail": "asha.joshi5927@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8b"
+    },
+    "size": "16.15 Bigah",
+    "ownerName": "Amit Gupta",
+    "ownerEmail": "amit.gupta228@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8c"
+    },
+    "size": "6.83 Bigah",
+    "ownerName": "Vivek Thakur",
+    "ownerEmail": "vivek.thakur7794@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8d"
+    },
+    "size": "7.62 Bigah",
+    "ownerName": "Kiran Mehta",
+    "ownerEmail": "kiran.mehta4148@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8e"
+    },
+    "size": "46.83 Bigah",
+    "ownerName": "Arjun Iyer",
+    "ownerEmail": "arjun.iyer8740@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac8f"
+    },
+    "size": "10.12 Bigah",
+    "ownerName": "Ritu Reddy",
+    "ownerEmail": "ritu.reddy809@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac90"
+    },
+    "size": "18.92 Bigah",
+    "ownerName": "Arjun Chopra",
+    "ownerEmail": "arjun.chopra377@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac91"
+    },
+    "size": "14.04 Bigah",
+    "ownerName": "Meena Saxena",
+    "ownerEmail": "meena.saxena7433@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac92"
+    },
+    "size": "48.72 Bigah",
+    "ownerName": "Asha Nair",
+    "ownerEmail": "asha.nair822@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac93"
+    },
+    "size": "27.95 Bigah",
+    "ownerName": "Rahul Sharma",
+    "ownerEmail": "rahul.sharma6495@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac94"
+    },
+    "size": "23.31 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt3367@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac95"
+    },
+    "size": "35.98 Bigah",
+    "ownerName": "Raj Iyer",
+    "ownerEmail": "raj.iyer379@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac96"
+    },
+    "size": "9.48 Bigah",
+    "ownerName": "Vikas Khan",
+    "ownerEmail": "vikas.khan3465@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac97"
+    },
+    "size": "27.86 Bigah",
+    "ownerName": "Anita Gupta",
+    "ownerEmail": "anita.gupta6504@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac98"
+    },
+    "size": "45.27 Bigah",
+    "ownerName": "Kamal Sharma",
+    "ownerEmail": "kamal.sharma8810@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac99"
+    },
+    "size": "10.7 Bigah",
+    "ownerName": "Mohit Sharma",
+    "ownerEmail": "mohit.sharma8119@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9a"
+    },
+    "size": "27.59 Bigah",
+    "ownerName": "Priya Joshi",
+    "ownerEmail": "priya.joshi1842@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9b"
+    },
+    "size": "43.23 Bigah",
+    "ownerName": "Priya Bose",
+    "ownerEmail": "priya.bose2307@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9c"
+    },
+    "size": "14.94 Bigah",
+    "ownerName": "Asha Joshi",
+    "ownerEmail": "asha.joshi5008@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9d"
+    },
+    "size": "15.52 Bigah",
+    "ownerName": "Rahul Thakur",
+    "ownerEmail": "rahul.thakur1191@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9e"
+    },
+    "size": "9.43 Bigah",
+    "ownerName": "Vikas Bhatt",
+    "ownerEmail": "vikas.bhatt4541@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463ac9f"
+    },
+    "size": "41.6 Bigah",
+    "ownerName": "Amit Thakur",
+    "ownerEmail": "amit.thakur2912@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca0"
+    },
+    "size": "3.06 Bigah",
+    "ownerName": "Raj Patel",
+    "ownerEmail": "raj.patel3043@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca1"
+    },
+    "size": "47.71 Bigah",
+    "ownerName": "Mohit Malhotra",
+    "ownerEmail": "mohit.malhotra8540@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca2"
+    },
+    "size": "8.16 Bigah",
+    "ownerName": "Manish Singh",
+    "ownerEmail": "manish.singh2770@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca3"
+    },
+    "size": "32.72 Bigah",
+    "ownerName": "Deepa Gupta",
+    "ownerEmail": "deepa.gupta1222@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca4"
+    },
+    "size": "7.26 Bigah",
+    "ownerName": "Raj Saxena",
+    "ownerEmail": "raj.saxena7563@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca5"
+    },
+    "size": "6.48 Bigah",
+    "ownerName": "Amit Das",
+    "ownerEmail": "amit.das8348@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca6"
+    },
+    "size": "41.65 Bigah",
+    "ownerName": "Karan Singh",
+    "ownerEmail": "karan.singh3966@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca7"
+    },
+    "size": "24.09 Bigah",
+    "ownerName": "Anita Jain",
+    "ownerEmail": "anita.jain9310@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca8"
+    },
+    "size": "34.98 Bigah",
+    "ownerName": "Manish Nair",
+    "ownerEmail": "manish.nair4263@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463aca9"
+    },
+    "size": "37.86 Bigah",
+    "ownerName": "Deepa Kumar",
+    "ownerEmail": "deepa.kumar7366@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acaa"
+    },
+    "size": "28.72 Bigah",
+    "ownerName": "Meena Singh",
+    "ownerEmail": "meena.singh4812@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acab"
+    },
+    "size": "14.17 Bigah",
+    "ownerName": "Neha Joshi",
+    "ownerEmail": "neha.joshi7861@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acac"
+    },
+    "size": "40.77 Bigah",
+    "ownerName": "Meena Khan",
+    "ownerEmail": "meena.khan3314@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acad"
+    },
+    "size": "4.01 Bigah",
+    "ownerName": "Pooja Bhatt",
+    "ownerEmail": "pooja.bhatt3787@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acae"
+    },
+    "size": "17.55 Bigah",
+    "ownerName": "Sunita Chopra",
+    "ownerEmail": "sunita.chopra4635@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acaf"
+    },
+    "size": "38.41 Bigah",
+    "ownerName": "Raj Bhatt",
+    "ownerEmail": "raj.bhatt2905@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb0"
+    },
+    "size": "49.53 Bigah",
+    "ownerName": "Ramesh Nair",
+    "ownerEmail": "ramesh.nair290@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb1"
+    },
+    "size": "3.56 Bigah",
+    "ownerName": "Rahul Iyer",
+    "ownerEmail": "rahul.iyer981@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb2"
+    },
+    "size": "18.79 Bigah",
+    "ownerName": "Sanjay Reddy",
+    "ownerEmail": "sanjay.reddy1617@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb3"
+    },
+    "size": "20.1 Bigah",
+    "ownerName": "Manish Reddy",
+    "ownerEmail": "manish.reddy7475@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb4"
+    },
+    "size": "48.36 Bigah",
+    "ownerName": "Mohit Saxena",
+    "ownerEmail": "mohit.saxena234@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb5"
+    },
+    "size": "5.49 Bigah",
+    "ownerName": "Karan Das",
+    "ownerEmail": "karan.das5571@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb6"
+    },
+    "size": "17.78 Bigah",
+    "ownerName": "Lakshmi Nair",
+    "ownerEmail": "lakshmi.nair8890@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb7"
+    },
+    "size": "35.92 Bigah",
+    "ownerName": "Sunita Kumar",
+    "ownerEmail": "sunita.kumar160@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb8"
+    },
+    "size": "28.11 Bigah",
+    "ownerName": "Deepa Iyer",
+    "ownerEmail": "deepa.iyer6989@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acb9"
+    },
+    "size": "14.71 Bigah",
+    "ownerName": "Meena Khan",
+    "ownerEmail": "meena.khan3725@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acba"
+    },
+    "size": "30.11 Bigah",
+    "ownerName": "Suresh Khan",
+    "ownerEmail": "suresh.khan1480@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acbb"
+    },
+    "size": "33.12 Bigah",
+    "ownerName": "Lakshmi Bose",
+    "ownerEmail": "lakshmi.bose2757@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acbc"
+    },
+    "size": "1.46 Bigah",
+    "ownerName": "Suresh Thakur",
+    "ownerEmail": "suresh.thakur481@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acbd"
+    },
+    "size": "30.99 Bigah",
+    "ownerName": "Mohit Verma",
+    "ownerEmail": "mohit.verma8951@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acbe"
+    },
+    "size": "28.01 Bigah",
+    "ownerName": "Asha Saxena",
+    "ownerEmail": "asha.saxena2791@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acbf"
+    },
+    "size": "14.61 Bigah",
+    "ownerName": "Amit Nair",
+    "ownerEmail": "amit.nair7203@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acc0"
+    },
+    "size": "18.36 Bigah",
+    "ownerName": "Sunita Das",
+    "ownerEmail": "sunita.das1179@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acc1"
+    },
+    "size": "45.82 Bigah",
+    "ownerName": "Mohit Nair",
+    "ownerEmail": "mohit.nair782@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acc2"
+    },
+    "size": "25.47 Bigah",
+    "ownerName": "Meena Khan",
+    "ownerEmail": "meena.khan8178@example.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "691aa7b839e29f849463acc3"
+    },
+    "size": "25.82 Bigah",
+    "ownerName": "Mohit Patel",
+    "ownerEmail": "mohit.patel771@example.com",
+    "__v": 0
+  }
+]

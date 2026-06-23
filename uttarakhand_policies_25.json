@@ -1,0 +1,177 @@
+[
+  {
+    "policyId": "UK-SCH-001",
+    "name": "Old Age Pension Scheme",
+    "minAge": 60,
+    "minIncome": null,
+    "description": "https://ssp.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-002",
+    "name": "Widow Pension Scheme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://ssp.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-003",
+    "name": "Disability Pension",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://ssp.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-004",
+    "name": "MGNREGA Employment Guarantee",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://nrega.nic.in/"
+  },
+  {
+    "policyId": "UK-SCH-005",
+    "name": "PM Awas Yojana",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://pmayg.nic.in/"
+  },
+  {
+    "policyId": "UK-SCH-006",
+    "name": "Ayushman Bharat Health Scheme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://pmjay.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-007",
+    "name": "Janani Suraksha Yojana",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=309"
+  },
+  {
+    "policyId": "UK-SCH-008",
+    "name": "Mukhyamantri Swarozgar Yojana",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://msy.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-009",
+    "name": "Farmer Welfare Scheme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://farmer.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-010",
+    "name": "Mahila Utthan Yojana",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://wcd.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-011",
+    "name": "Palayan Roktham Yojana",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://uttarakhandpalayancommission.org/"
+  },
+  {
+    "policyId": "UK-SCH-012",
+    "name": "Mukhyamantri Udyamshala Yojana",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://msme.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-013",
+    "name": "Skill Development Programs",
+    "minAge": 16,
+    "minIncome": null,
+    "description": "https://scudy.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-014",
+    "name": "Student Scholarship Schemes",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://scholarships.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-015",
+    "name": "Sanitation and Swachh Bharat Grants",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-016",
+    "name": "Water Conservation Programs",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://jalshakti-ddws.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-017",
+    "name": "Rural Livelihood Mission Support",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://aajeevika.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-018",
+    "name": "Ghasiyari Kalyan Yojana",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://cooperation.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-019",
+    "name": "Aroma & Medicinal Plant Promotion",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://nmpb.nic.in/"
+  },
+  {
+    "policyId": "UK-SCH-020",
+    "name": "Startup Uttarakhand Scheme",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://startupuk.in/"
+  },
+  {
+    "policyId": "UK-SCH-021",
+    "name": "Mobile Health Camp Program",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://health.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-022",
+    "name": "Housing Aid for SC/ST",
+    "minAge": 18,
+    "minIncome": null,
+    "description": "https://socialjustice.uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-023",
+    "name": "Border Area Development Programme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://badp.mha.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-024",
+    "name": "Digital Panchayat Scheme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://uk.gov.in/"
+  },
+  {
+    "policyId": "UK-SCH-025",
+    "name": "Direct Benefit Transfer (DBT) Scheme",
+    "minAge": null,
+    "minIncome": null,
+    "description": "https://dbtbharat.gov.in/"
+  }
+]

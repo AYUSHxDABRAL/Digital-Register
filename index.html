@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Digital Gram Panchayat – Management System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-icon"><span>🛡️</span></div>
+      <h1>Digital Gram Panchayat</h1>
+      <div class="hero-pill">Management System</div>
+      <p class="hero-sub">Empowering rural governance through digital transformation.</p>
+      <div class="hero-tags">
+        <span>⚡ Modern</span>
+        <span>👥 Efficient</span>
+        <span>🔐 Secure</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ROLE SELECTION -->
+  <section id="mainSection" class="landing">
+    <div class="portal-row">
+      <div class="portal-card">
+        <div class="portal-icon">👥</div>
+        <h2>Admin Portal</h2>
+        <p class="portal-subtitle">Full system control</p>
+        <ul class="portal-list">
+          <li>Manage citizens, policies & categories</li>
+          <li>Track welfare schemes eligibility</li>
+          <li>Complete land record management</li>
+        </ul>
+        <button class="btn-primary large" onclick="openLogin('admin')">
+          Admin Login ✨
+        </button>
+      </div>
+
+      <div class="portal-card">
+        <div class="portal-icon">📄</div>
+        <h2>Citizen Portal</h2>
+        <p class="portal-subtitle">Access your records</p>
+        <ul class="portal-list">
+          <li>View your profile, age & income details</li>
+          <li>Check eligible welfare schemes</li>
+          <li>Track your land information</li>
+        </ul>
+        <button class="btn-green large" onclick="openLogin('citizen')">
+          Citizen Login ✨
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ADMIN LOGIN MODAL -->
+  <div id="adminModal" class="modal">
+    <div class="modal-card">
+      <button class="close-btn" onclick="closeLogin('admin')">✕</button>
+      <h3>Admin Login</h3>
+      <label>Email</label>
+      <input id="adminEmail" type="email" placeholder="admin@gmail.com" />
+      <label>Password</label>
+      <input id="adminPass" type="password" placeholder="123" />
+      <div id="adminError" class="error"></div>
+      <button class="btn-primary full" onclick="login('admin')">Login</button>
+      <p class="demo-hint">Demo: <b>admin@gmail.com / 123</b></p>
+    </div>
+  </div>
+
+  <!-- CITIZEN LOGIN MODAL -->
+  <div id="citizenModal" class="modal">
+    <div class="modal-card">
+      <button class="close-btn" onclick="closeLogin('citizen')">✕</button>
+      <h3>Citizen Login</h3>
+      <label>Registered Email</label>
+      <input id="citizenEmail" type="email" placeholder="your@email.com" />
+      <div id="citizenError" class="error"></div>
+      <button class="btn-green full" onclick="login('citizen')">Login</button>
+    </div>
+  </div>
+
+  <!-- ===========================
+       ADMIN DASHBOARD
+  ============================ -->
+  <section id="adminDash" class="dashboard">
+
+    <!-- TOP BAR -->
+    <header class="dash-top">
+      <div class="dash-left">
+        <div class="dash-logo-circle">👥</div>
+        <div>
+          <div class="dash-title">Admin Portal</div>
+          <div class="dash-subtitle">Manage citizens, policies & land</div>
+        </div>
+      </div>
+
+      <div class="dash-top-stats">
+        <div class="top-stat">
+          <span>Total Citizens</span>
+          <strong id="statCitizens">0</strong>
+        </div>
+        <div class="top-stat">
+          <span>Active Policies</span>
+          <strong id="statPolicies">0</strong>
+        </div>
+        <div class="top-stat">
+          <span>Total Lands</span>
+          <strong id="statLands">0</strong>
+        </div>
+      </div>
+
+      <button class="btn-red small" onclick="logout()">Logout</button>
+    </header>
+
+    <!-- ADMIN LAYOUT GRID -->
+    <div class="layout-grid">
+
+      <!-- LEFT SIDEBAR -->
+      <aside class="sidebar">
+        <div class="sidebar-title">Navigation</div>
+        <button id="navCitizens" class="sidebar-link active" onclick="switchTab('citizens')">👥 Citizens</button>
+        <button id="navPolicies" class="sidebar-link" onclick="switchTab('policies')">📜 Policies</button>
+        <button id="navLands" class="sidebar-link" onclick="switchTab('lands')">📍 Land Records</button>
+
+        <div class="sidebar-title" style="margin-top:20px;">Quick Add</div>
+        <button class="sidebar-quick" onclick="showAddForm('citizen')">+ Add Citizen</button>
+        <button class="sidebar-quick" onclick="showAddForm('policy')">+ Add Policy</button>
+        <button class="sidebar-quick" onclick="showAddForm('land')">+ Add Land</button>
+      </aside>
+
+      <!-- MAIN CONTENT -->
+      <main class="main-content">
+
+        <!-- FORM DYNAMIC AREA -->
+        <div id="formContainer" class="form-container"></div>
+
+        <!-- CITIZENS PANEL -->
+        <section id="panelCitizens" class="panel">
+          <div class="panel-header">
+            <h2 class="panel-title">Citizens</h2>
+          </div>
+          <table class="data-table" id="citizensTable">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Annual Income</th>
+                <th>Mobile</th>
+                <th>Category</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </section>
+
+        <!-- POLICIES PANEL -->
+        <section id="panelPolicies" class="panel" style="display:none;">
+          <div class="panel-header">
+            <h2 class="panel-title">Policies</h2>
+          </div>
+          <table class="data-table" id="policiesTable">
+            <thead>
+              <tr>
+                <th>Policy ID</th>
+                <th>Name</th>
+                <th>Min Age</th>
+                <th>Min Income</th>
+                <th>Description</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </section>
+
+        <!-- LAND PANEL -->
+        <section id="panelLands" class="panel" style="display:none;">
+          <div class="panel-header">
+            <h2 class="panel-title">Land Records</h2>
+          </div>
+          <table class="data-table" id="landsTable">
+            <thead>
+              <tr>
+                <th>Land Size</th>
+                <th>Owner Name</th>
+                <th>Owner Email</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </section>
+
+      </main>
+    </div>
+  </section>
+
+  <!-- ===========================
+       CITIZEN DASHBOARD
+  ============================ -->
+
+  <section id="citizenDash" class="dashboard">
+
+    <header class="dash-top">
+      <div class="dash-left">
+        <div class="dash-logo-circle green">👤</div>
+        <div>
+          <div class="dash-title">Citizen Portal</div>
+          <div class="dash-subtitle">View your profile & eligible schemes</div>
+        </div>
+      </div>
+      <button class="btn-red small" onclick="logout()">Logout</button>
+    </header>
+
+    <div class="layout-grid citizen-layout">
+
+      <!-- PROFILE SIDEBAR -->
+      <aside class="sidebar citizen-sidebar">
+        <div class="profile-card">
+          <div class="profile-avatar">
+            <span id="citizenInitials">CT</span>
+          </div>
+          <h2 id="citizenName">Citizen Name</h2>
+          <p id="citizenEmailText" class="profile-email">email@example.com</p>
+          <span class="badge-green">Verified</span>
+
+          <div class="profile-details">
+            <h3>Profile Details</h3>
+            <p><span>Age</span><span id="citizenAge">-</span></p>
+            <p><span>Gender</span><span id="citizenGender">-</span></p>
+            <p><span>Annual Income</span><span id="citizenIncome">-</span></p>
+            <p><span>Mobile</span><span id="citizenMobile">-</span></p>
+            <p><span>Category</span><span id="citizenCategory">-</span></p>
+            <p><span>Address</span><span id="citizenAddress">-</span></p>
+          </div>
+        </div>
+      </aside>
+
+      <!-- RIGHT CONTENT -->
+      <main class="main-content">
+
+        <!-- Eligible Policies -->
+        <section class="panel">
+          <div class="panel-title">Eligible Policies</div>
+          <ul id="citizenPolicies" class="list-simple"></ul>
+        </section>
+
+        <!-- Land Records -->
+        <section class="panel">
+          <div class="panel-title">My Land Records</div>
+          <ul id="citizenLands" class="list-simple"></ul>
+        </section>
+
+      </main>
+
+    </div>
+  </section>
+
+  <!-- ===========================
+       POLICY DETAILS MODAL
+  ============================ -->
+  <div id="policyDetailModal" class="modal">
+    <div class="modal-card" style="max-width: 480px;">
+      <button class="close-btn" onclick="closePolicyDetails()">✕</button>
+      <h3 id="pdTitle">Policy Title</h3>
+
+      <div id="pdBody" style="
+        margin-top: 10px;
+        font-size: 15px;
+        line-height: 1.5;
+        color: #cbd5e1;">
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
